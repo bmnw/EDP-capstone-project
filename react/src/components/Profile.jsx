@@ -36,7 +36,7 @@ function Profile({ userData }) {
         <li>Location: {profile.location}</li>
         {userData.role === "hr" ||
         (userData.role === "manager" &&
-          profile.id in userData.direct_reports) ||
+          userData.direct_reports.includes(profile.id)) ||
         userData.id === profile.id ? (
           <li>Salary {profile.salary}</li>
         ) : (
