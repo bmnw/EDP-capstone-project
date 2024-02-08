@@ -15,7 +15,21 @@ startup();
 
 // retrieve Employee information by name
 module.exports.findEmployeeByName = function (name, callback) {
-  let dataPromise = collection.findOne({ name: name });
+  let dataPromise = collection
+    .find({ name: { $regex: name, $options: "i" } })
+    .toArray();
+  dataPromise.then((employee) => callback(employee));
+};
+
+// retrieve Employee information by id
+module.exports.findEmployeeById = function (id, callback) {
+  let dataPromise = collection.findOne({ id: id });
+  dataPromise.then((employee) => callback(employee));
+};
+
+// retrieve Employee information by name
+module.exports.findFirst15Employee = function (callback) {
+  let dataPromise = collection.find({}).limit(15).toArray();
   dataPromise.then((employee) => callback(employee));
 };
 
