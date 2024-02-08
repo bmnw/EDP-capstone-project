@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 
 const url = new URL("http://localhost:4000/profile/");
 
-function Profile({userData}) {
+function Profile({ userData }) {
   const { id } = useParams();
   const profile_url = url + id;
   const [profile, setProfile] = useState([]);
@@ -15,8 +15,15 @@ function Profile({userData}) {
         setProfile(data);
       });
   };
+
   useEffect(() => {
-    getProfile();
+    if (id === userData.id) {
+      console.log("using the userData");
+      setProfile(userData);
+    } else {
+      console.log("fetching from db");
+      getProfile();
+    }
   }, []);
 
   return (

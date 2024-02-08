@@ -14,7 +14,6 @@ function Login({userData, setUserData}) {
     fetch(url + username)
       .then(async (response) => await response.json())
       .then(async (data) => {
-        console.log(data);
         if(password === data.password){
           setUserData(data);
           navigate('/search');
