@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 
 const url = new URL("http://localhost:4000/profile/");
 
-function Profile() {
+function Profile({userData}) {
   const { id } = useParams();
   const profile_url = url + id;
   const [profile, setProfile] = useState([]);

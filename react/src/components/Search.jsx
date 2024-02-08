@@ -3,12 +3,11 @@ import { Link } from "react-router-dom";
 
 const url = new URL("http://localhost:4000/search");
 
-function Search() {
+function Search({userData}) {
   const [employees, setEmployees] = useState([]);
   const [searchInput, setSearchInput] = useState("");
 
   const getEmployees = function async(searchInput = '') {
-    console.log()
     fetch(url + searchInput)
       .then(async (response) => await response.json())
       .then((data) => {

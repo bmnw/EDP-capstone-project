@@ -5,16 +5,33 @@ import { useNavigate } from "react-router";
 
 const url = new URL("http://localhost:4000/login/");
 
-function Login() {
+function Login({userData, setUserData}) {
+  const navigate = useNavigate();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
-  const login = async () => {
-    try {
-      console.log("login");
-    } catch (e) {
-      alert(e);
-    }
+
+  const getUser = function async(username) {
+    fetch(url + username)
+      .then(async (response) => await response.json())
+      .then(async (data) => {
+        console.log(data);
+        if(password === data.password){
+          setUserData(data);
+          navigate('/search');
+        } else{
+          alert('Invalid login credentials. Please try again.');
+        }
+      });
   };
+
+  // const login = async () => {
+  //   try {
+  //     console.log("login");
+  //   } catch (e) {
+  //     alert(e);
+  //   }
+  // };
+
   return (
     <div className="login">
       <label>Username</label>
@@ -36,7 +53,7 @@ function Login() {
           onChange={(e) => setPassword(e.target.value)}
         />
       </div>
-      <button onClick={login}>Login</button>
+      <button onClick={() => getUser(username)}>Login</button>
     </div>
   );
 }

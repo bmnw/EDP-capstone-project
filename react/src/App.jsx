@@ -6,14 +6,21 @@ import Login from "./components/Login";
 import Profile from "./components/Profile";
 
 function App() {
+  const [userData, setUserData] = useState({});
   return (
     <div>
       <h1>Searchable Enterprise Directory</h1>
       <BrowserRouter>
         <Routes>
-          <Route path="/search" element={<Search />} />
-          <Route path="/profile/:id" element={<Profile />} />
-          <Route path="/login" element={<Login />} />
+          <Route path="/search" element={<Search userData={userData} />} />
+          <Route
+            path="/profile/:id"
+            element={<Profile userData={userData} />}
+          />
+          <Route
+            path="/login"
+            element={<Login userData={userData} setUserData={setUserData} />}
+          />
           <Route path="/" element={<Login />} />
         </Routes>
       </BrowserRouter>
