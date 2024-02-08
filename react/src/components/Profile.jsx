@@ -34,7 +34,14 @@ function Profile({ userData }) {
         <li>Phone Number: {profile.phone_number}</li>
         <li>Role: {profile.role}</li>
         <li>Location: {profile.location}</li>
-        <li>Salary {profile.salary}</li>
+        {userData.role === "hr" ||
+        (userData.role === "manager" &&
+          profile.id in userData.direct_reports) ||
+        userData.id === profile.id ? (
+          <li>Salary {profile.salary}</li>
+        ) : (
+          <></>
+        )}
       </ul>
     </div>
   );
