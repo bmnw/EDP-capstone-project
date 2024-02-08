@@ -1,13 +1,15 @@
 import React from "react";
 import { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 
 const url = new URL("http://localhost:4000/profile/");
 
 function Profile({ userData }) {
+  const navigate = useNavigate();
   const { id } = useParams();
   const profile_url = url + id;
   const [profile, setProfile] = useState([]);
+
   const getProfile = function async() {
     fetch(profile_url)
       .then(async (response) => await response.json())
@@ -15,6 +17,10 @@ function Profile({ userData }) {
         setProfile(data);
       });
   };
+
+  const backToSearch = () => {
+    navigate('/search');
+  }
 
   useEffect(() => {
     if (id === userData.id) {
@@ -28,6 +34,7 @@ function Profile({ userData }) {
 
   return (
     <div className="page">
+      <button onClick={backToSearch}>Back to Search</button>
       Info
       <ul>
         <li>Name: {profile.name}</li>
