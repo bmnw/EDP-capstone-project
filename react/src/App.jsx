@@ -15,7 +15,7 @@ function App() {
           <Route path="/search" element={<Search userData={userData} />} />
           <Route
             path="/profile/:id"
-            element={<Profile userData={userData} />}
+            element={<Profile userData={userData} setUserData={setUserData} />}
           />
           <Route
             path="/login"

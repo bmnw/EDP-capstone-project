@@ -4,7 +4,7 @@ import { useParams, useNavigate } from "react-router-dom";
 
 const url = new URL("http://localhost:4000/profile/");
 
-function Profile({ userData }) {
+function Profile({ userData, setUserData }) {
   const navigate = useNavigate();
   const { id } = useParams();
   const profile_url = url + id;
@@ -19,8 +19,14 @@ function Profile({ userData }) {
   };
 
   const backToSearch = () => {
-    navigate('/search');
-  }
+    navigate("/search");
+  };
+
+  const logOut = () => {
+    // clears userData
+    setUserData({});
+    navigate("/login");
+  };
 
   useEffect(() => {
     if (id === userData.id) {
@@ -50,6 +56,7 @@ function Profile({ userData }) {
           <></>
         )}
       </ul>
+      {userData.id === profile.id && <button onClick={logOut}>Logout</button>}
     </div>
   );
 }
