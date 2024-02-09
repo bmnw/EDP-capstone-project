@@ -1,11 +1,14 @@
 import React from "react";
-import { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useState } from "react";
 import { useNavigate } from "react-router";
+import TextField from "@mui/material/TextField";
+import Button from "@mui/material/Button";
+import Grid from "@mui/material/Grid";
+import Typography from "@mui/material/Typography";
 
 const url = new URL("http://localhost:4000/login/");
 
-function Login({userData, setUserData}) {
+function Login({ userData, setUserData }) {
   const navigate = useNavigate();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -14,46 +17,52 @@ function Login({userData, setUserData}) {
     fetch(url + username)
       .then(async (response) => await response.json())
       .then(async (data) => {
-        if(password === data.password){
+        if (password === data.password) {
           setUserData(data);
-          navigate('/search');
-        } else{
-          alert('Invalid login credentials. Please try again.');
+          navigate("/search");
+        } else {
+          alert("Invalid login credentials. Please try again.");
         }
       });
   };
 
-  // const login = async () => {
-  //   try {
-  //     console.log("login");
-  //   } catch (e) {
-  //     alert(e);
-  //   }
-  // };
-
   return (
-    <div className="login">
-      <label>Username</label>
-      <div>
-        <input
-          type="text"
-          placeholder="Enter username"
+    <Grid
+      container
+      spacing={2}
+      direction="column"
+      alignItems="left"
+      justifyContent="left"
+    >
+      <Grid item>
+        <Typography variant="h6">Username</Typography>
+      </Grid>
+      <Grid item>
+        <TextField
+          label="Enter username"
+          variant="filled"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
         />
-      </div>
-      <label>Password</label>
-      <div>
-        <input
+      </Grid>
+      <Grid item>
+        <Typography variant="h6">Password</Typography>
+      </Grid>
+      <Grid item>
+        <TextField
           type="password"
-          className="form-control"
-          placeholder="Enter password"
+          label="Enter password"
+          variant="filled"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
         />
-      </div>
-      <button onClick={() => getUser(username)}>Login</button>
-    </div>
+      </Grid>
+      <Grid item>
+        <Button variant="contained" onClick={() => getUser(username)}>
+          Login
+        </Button>
+      </Grid>
+    </Grid>
   );
 }
 export default Login;
