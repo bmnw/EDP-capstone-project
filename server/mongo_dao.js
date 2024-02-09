@@ -21,9 +21,15 @@ module.exports.findEmployeeByName = function (name, callback) {
   dataPromise.then((employee) => callback(employee));
 };
 
+// retrieve Employees information by ids
+module.exports.findEmployeesByIds = function (ids, callback) {
+  let dataPromise = collection.find({ id: { $in: ids } }).toArray();
+  dataPromise.then((employee) => callback(employee));
+};
+
 // retrieve Employee information by id
 module.exports.findEmployeeById = function (id, callback) {
-  let dataPromise = collection.findOne({ id: id });
+  let dataPromise = collection.findOne({ id: parseInt(id) });
   dataPromise.then((employee) => callback(employee));
 };
 

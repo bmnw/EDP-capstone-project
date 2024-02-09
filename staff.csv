@@ -1,0 +1,1001 @@
+id,name,phone_number,role,location,salary,username,password,direct_reports
+1,Evan Dennis,+1-636-793-6632,employee,Hartford,86509,evand,password,[]
+2,Shannon Park,001-279-207-1722,employee,St. Paul,94499,shannonp,password,[]
+3,Manuel Robinson,421.602.0450,employee,Hartford,96078,manuelr,password,[]
+4,Christine Allison,871-601-1957,employee,St. Paul,93781,christinea,password,[]
+5,Laura Rice,001-890-821-3258,employee,Hartford,86605,laurar,password,[]
+6,Justin Wheeler,001-786-225-4990,employee,St. Paul,90388,justinw,password,[]
+7,Audrey Johnson,3257500137,employee,Hartford,88133,audreyj,password,[]
+8,Aaron Lewis,572-641-0729,employee,Hartford,94086,aaronl,password,[]
+9,Benjamin Wood,001-396-774-3908,employee,Hartford,93287,benjaminw,password,[]
+10,Amy Villarreal,399.469.1590,employee,Hartford,89699,amyv,password,[]
+11,Audrey Powell,+1-861-628-8674,employee,St. Paul,87706,audreyp,password,[]
+12,Jonathon Wright,+1-724-881-8721,employee,St. Paul,86691,jonathonw,password,[]
+13,Marie Stephens,+1-741-414-6928,employee,St. Paul,80152,maries,password,[]
+14,Shannon Morris,4326880059,employee,St. Paul,85142,shannonm,password,[]
+15,Kristopher Hooper,+1-520-701-2141,employee,St. Paul,87859,kristopherh,password,[]
+16,Michael Lewis,001-523-504-7069,employee,St. Paul,93249,michaell,password,[]
+17,Valerie Curry,913-265-0782,employee,Hartford,94262,valeriec,password,[]
+18,Charles Whitehead,(849)322-0586,employee,Hartford,101504,charlesw,password,[]
+19,Ana Wright,261-577-8822,employee,Hartford,101893,anaw,password,[]
+20,Thomas Ingram,840-317-1555,employee,St. Paul,85051,thomasi,password,[]
+21,Stephanie Farrell,5228387781,employee,St. Paul,82638,stephanief,password,[]
+22,Wesley Watkins,4228109306,employee,Hartford,95148,wesleyw,password,[]
+23,Randy Hobbs,961-345-7133,employee,Hartford,88131,randyh,password,[]
+24,Wanda Burns,001-322-706-8645,employee,Hartford,100177,wandab,password,[]
+25,Amy Vasquez,859.802.7253,employee,Hartford,102520,amyv,password,[]
+26,Elizabeth Dickerson,418-310-9076,employee,Hartford,94846,elizabethd,password,[]
+27,Scott Brown,+1-947-719-4729,employee,Hartford,91591,scottb,password,[]
+28,Jason Jackson,001-396-647-3585,employee,St. Paul,87259,jasonj,password,[]
+29,Carolyn Miller,+1-543-926-3094,employee,St. Paul,98112,carolynm,password,[]
+30,Daryl Mcdowell,440-908-9304,employee,Hartford,104575,darylm,password,[]
+31,William Miller,+1-481-294-1750,employee,St. Paul,82830,williamm,password,[]
+32,Lauren Peterson,521-579-3625,employee,St. Paul,89525,laurenp,password,[]
+33,Jennifer Koch,236.622.0853,employee,St. Paul,91148,jenniferk,password,[]
+34,Robert Morton,001-508-489-3437,employee,Hartford,92682,robertm,password,[]
+35,Patricia Melton,001-974-614-4248,employee,Hartford,99214,patriciam,password,[]
+36,Jamie Bishop,276.752.1530,employee,St. Paul,87592,jamieb,password,[]
+37,Morgan Brown,001-299-527-7356,employee,Hartford,96104,morganb,password,[]
+38,Carrie Dawson,(255)850-3500,employee,Hartford,99388,carried,password,[]
+39,William Rivera,917.763.8616,employee,St. Paul,80643,williamr,password,[]
+40,Christopher Mason,447-867-0267,employee,St. Paul,92650,christopherm,password,[]
+41,Steven Porter,751-659-6397,employee,St. Paul,97021,stevenp,password,[]
+42,Christopher Mcguire,001-773-795-0822,employee,St. Paul,83974,christopherm,password,[]
+43,Benjamin Murphy,+1-310-545-1965,employee,Hartford,87618,benjaminm,password,[]
+44,Mark Velazquez,(683)578-0966,employee,St. Paul,82484,markv,password,[]
+45,Daisy Johnson,512.715.3702,employee,St. Paul,84762,daisyj,password,[]
+46,Norma Moran,(749)665-7727,employee,St. Paul,92137,normam,password,[]
+47,Sarah Vargas,001-305-935-2873,employee,Hartford,99814,sarahv,password,[]
+48,Michelle Garcia,2389160230,employee,St. Paul,97772,michelleg,password,[]
+49,Erin Gibson,3456343086,employee,St. Paul,88758,ering,password,[]
+50,Evelyn Landry,768-558-3934,employee,St. Paul,92340,evelynl,password,[]
+51,Ronald Scott,001-952-705-5463,employee,St. Paul,85314,ronalds,password,[]
+52,Steven Tucker,638-966-9177,employee,St. Paul,81411,stevent,password,[]
+53,Christopher Patterson,579.296.9830,employee,Hartford,103066,christopherp,password,[]
+54,Vincent Santiago,234-318-5759,employee,St. Paul,86688,vincents,password,[]
+55,Paul Bradford,(315)359-4099,employee,St. Paul,81471,paulb,password,[]
+56,Amy Mcguire,+1-601-687-2606,employee,St. Paul,89765,amym,password,[]
+57,April Freeman,001-761-962-9533,employee,Hartford,90593,aprilf,password,[]
+58,Erin Hughes,+1-291-715-1944,employee,St. Paul,94847,erinh,password,[]
+59,Brandon Kane,942.950.5460,employee,Hartford,86717,brandonk,password,[]
+60,Diane Jacobs,604.280.9274,employee,Hartford,85742,dianej,password,[]
+61,Kaitlyn Thompson,7659788928,employee,St. Paul,80507,kaitlynt,password,[]
+62,Jeffrey Peck,+1-756-906-7391,employee,St. Paul,81400,jeffreyp,password,[]
+63,Tabitha Diaz,(514)259-4032,employee,St. Paul,96281,tabithad,password,[]
+64,Matthew Shannon,(767)522-2318,employee,St. Paul,85350,matthews,password,[]
+65,David Reid,256-496-0535,employee,St. Paul,97460,davidr,password,[]
+66,Chelsea Bailey,569-662-4868,employee,St. Paul,86889,chelseab,password,[]
+67,Wendy Johnson,001-244-450-2924,employee,St. Paul,90422,wendyj,password,[]
+68,Denise Mejia,(719)518-6688,employee,St. Paul,98405,denisem,password,[]
+69,Makayla Johnson,797.566.1391,employee,St. Paul,80876,makaylaj,password,[]
+70,Brenda Smith,(267)249-9758,employee,Hartford,90919,brendas,password,[]
+71,Joshua Medina,+1-323-678-1488,employee,Hartford,97194,joshuam,password,[]
+72,Nicole Oneal,982-532-2031,employee,St. Paul,82681,nicoleo,password,[]
+73,Anna Peterson,751.835.5269,employee,St. Paul,93641,annap,password,[]
+74,Larry Diaz,(806)217-2705,employee,St. Paul,80250,larryd,password,[]
+75,Devon Martinez,378.986.0042,employee,Hartford,95213,devonm,password,[]
+76,Raymond Blair,001-548-808-0042,employee,Hartford,89087,raymondb,password,[]
+77,Isaac Owens,(702)683-2917,employee,Hartford,95120,isaaco,password,[]
+78,Monica Price,9815715611,employee,St. Paul,86073,monicap,password,[]
+79,Randall Parker,+1-579-927-0462,employee,St. Paul,83844,randallp,password,[]
+80,Tyrone Baker,942-684-4038,employee,Hartford,95953,tyroneb,password,[]
+81,Melissa Ward,001-376-986-0136,employee,St. Paul,98484,melissaw,password,[]
+82,Tiffany Yang,+1-394-995-2849,employee,St. Paul,83215,tiffanyy,password,[]
+83,Amber Morales,+1-454-339-7780,employee,St. Paul,80869,amberm,password,[]
+84,Jenna Moreno,492-752-5921,employee,Hartford,89456,jennam,password,[]
+85,Keith Young,(514)617-7150,employee,St. Paul,80518,keithy,password,[]
+86,Jeffrey Stanton,001-487-497-6149,employee,St. Paul,97758,jeffreys,password,[]
+87,Cheyenne Davis,(554)393-0677,employee,St. Paul,92697,cheyenned,password,[]
+88,Sandra Wells,(328)879-6378,employee,St. Paul,90641,sandraw,password,[]
+89,Toni Murray,232.246.1861,employee,St. Paul,86761,tonim,password,[]
+90,Michelle Barker,001-973-966-3132,employee,St. Paul,84998,michelleb,password,[]
+91,Jacob Trevino,731.397.6379,employee,St. Paul,90492,jacobt,password,[]
+92,Stacy Collins,(354)883-6889,employee,St. Paul,84528,stacyc,password,[]
+93,Kelly Oneal,(540)722-8294,employee,St. Paul,89585,kellyo,password,[]
+94,Lawrence Garcia,456.543.5352,employee,St. Paul,91896,lawrenceg,password,[]
+95,Mark Morales,845.864.2808,employee,Hartford,100745,markm,password,[]
+96,Maria Vazquez,390.375.9464,employee,St. Paul,97598,mariav,password,[]
+97,Katherine Lopez,414-994-4970,employee,Hartford,95593,katherinel,password,[]
+98,James Obrien,439.737.1130,employee,Hartford,93641,jameso,password,[]
+99,Alicia Johns,494.389.8386,employee,St. Paul,82466,aliciaj,password,[]
+100,Tricia Gilmore,774.715.6960,employee,St. Paul,81498,triciag,password,[]
+101,Lauren Schultz,757-765-9078,employee,St. Paul,82700,laurens,password,[]
+102,Diana Thompson,001-453-318-7958,employee,Hartford,104403,dianat,password,[]
+103,Richard Acosta,001-456-420-5799,employee,St. Paul,94150,richarda,password,[]
+104,Frank Weaver,417-600-8321,employee,St. Paul,93616,frankw,password,[]
+105,Curtis Archer,852.576.8602,employee,Hartford,87848,curtisa,password,[]
+106,Erin Clark,(757)629-7148,employee,St. Paul,81655,erinc,password,[]
+107,Walter Williams,702.595.4149,employee,St. Paul,83892,walterw,password,[]
+108,Jessica Johnson,(230)643-7992,employee,St. Paul,88883,jessicaj,password,[]
+109,Michael West,791.812.2221,employee,St. Paul,80538,michaelw,password,[]
+110,Stephanie Ball,+1-596-910-1793,employee,St. Paul,89479,stephanieb,password,[]
+111,Megan Kane,001-908-620-1544,employee,Hartford,92279,megank,password,[]
+112,Valerie Walker,932-572-2526,employee,Hartford,94113,valeriew,password,[]
+113,Kenneth Dickerson,(712)877-9404,employee,Hartford,99275,kennethd,password,[]
+114,Paul Foster,+1-670-696-0999,employee,St. Paul,95987,paulf,password,[]
+115,Jennifer Barry,(821)547-8076,employee,St. Paul,90174,jenniferb,password,[]
+116,Michael Logan,2409862229,employee,St. Paul,88726,michaell,password,[]
+117,Brenda Patterson,(646)524-2205,employee,Hartford,85057,brendap,password,[]
+118,Heather Carter,352.657.7885,employee,Hartford,94892,heatherc,password,[]
+119,Chad Williams,(990)579-2054,employee,Hartford,89667,chadw,password,[]
+120,Michael Stephenson,001-526-954-8050,employee,St. Paul,87223,michaels,password,[]
+121,Thomas Torres,838-472-0735,employee,Hartford,93795,thomast,password,[]
+122,Stephanie Green,8515416308,employee,St. Paul,96891,stephanieg,password,[]
+123,Natasha Wallace,726-752-1109,employee,Hartford,90158,natashaw,password,[]
+124,Justin Dawson,+1-953-530-5601,employee,Hartford,85868,justind,password,[]
+125,Tony Benitez,956.511.1106,employee,Hartford,95984,tonyb,password,[]
+126,Jonathan Chambers,(444)730-5351,employee,Hartford,100229,jonathanc,password,[]
+127,Charles Winters,791-306-4890,employee,Hartford,98517,charlesw,password,[]
+128,Robert Rodriguez,001-567-479-5352,employee,St. Paul,87850,robertr,password,[]
+129,Donald Taylor,2809480894,employee,Hartford,99245,donaldt,password,[]
+130,Nathan Reid,472.498.0689,employee,St. Paul,82710,nathanr,password,[]
+131,Vincent Johnson,001-276-385-1149,employee,Hartford,93125,vincentj,password,[]
+132,Lauren Ward,388.771.4708,employee,Hartford,98958,laurenw,password,[]
+133,Lisa Fernandez,(571)748-0924,employee,Hartford,92077,lisaf,password,[]
+134,Ryan Rowe,693.741.2519,employee,Hartford,89080,ryanr,password,[]
+135,Anthony Johnson,001-701-859-3237,employee,St. Paul,86167,anthonyj,password,[]
+136,Karina Ramirez,370.952.3566,employee,St. Paul,86877,karinar,password,[]
+137,Elizabeth Frank,001-397-587-8064,employee,Hartford,97522,elizabethf,password,[]
+138,Shawn Blanchard,303-415-7009,employee,St. Paul,82050,shawnb,password,[]
+139,Frances Rowe,(384)485-1979,employee,St. Paul,82806,francesr,password,[]
+140,Kelly Campos,001-590-854-4852,employee,Hartford,87572,kellyc,password,[]
+141,Troy Wise,383.343.0958,employee,Hartford,91759,troyw,password,[]
+142,Michael Ward,001-307-614-0961,employee,Hartford,97083,michaelw,password,[]
+143,David Dominguez,504.633.5169,employee,Hartford,98078,davidd,password,[]
+144,Todd Hoffman,001-906-490-8449,employee,Hartford,87681,toddh,password,[]
+145,Susan Johnson,+1-282-409-7792,employee,St. Paul,90763,susanj,password,[]
+146,Ashlee Garza,001-258-667-6797,employee,Hartford,97155,ashleeg,password,[]
+147,Kent Wright,(238)866-2063,employee,St. Paul,88351,kentw,password,[]
+148,Carla Moreno,806-251-9454,employee,Hartford,91610,carlam,password,[]
+149,Joanna Ramos,+1-810-261-7750,employee,St. Paul,93439,joannar,password,[]
+150,Anthony Chung,(201)292-9117,employee,Hartford,101260,anthonyc,password,[]
+151,Brendan Davis,001-311-727-4704,employee,Hartford,95229,brendand,password,[]
+152,Jordan Johnson,001-701-429-8286,employee,St. Paul,88590,jordanj,password,[]
+153,Jerome Williams,+1-560-357-2584,employee,Hartford,100469,jeromew,password,[]
+154,Theresa Andrews,854.533.1407,employee,St. Paul,90649,theresaa,password,[]
+155,James Taylor,(607)846-2533,employee,St. Paul,98346,jamest,password,[]
+156,Cindy Wheeler,+1-372-302-0964,employee,St. Paul,92976,cindyw,password,[]
+157,Patrick White,001-671-359-6932,employee,St. Paul,93170,patrickw,password,[]
+158,Paul Joseph,(614)353-0139,employee,St. Paul,87526,paulj,password,[]
+159,Amber Ayala,+1-868-865-6719,employee,St. Paul,97937,ambera,password,[]
+160,John Haynes,283-455-9322,employee,Hartford,86673,johnh,password,[]
+161,Peter Small,001-968-792-7721,employee,Hartford,102628,peters,password,[]
+162,Chelsea Mitchell,778-655-3750,employee,Hartford,93439,chelseam,password,[]
+163,Kelli Klein,(775)308-4539,employee,Hartford,97586,kellik,password,[]
+164,Bethany Little,535-370-6858,employee,St. Paul,99975,bethanyl,password,[]
+165,Daniel Case,336-296-9988,employee,Hartford,89122,danielc,password,[]
+166,Patricia Smith,566.409.0562,employee,St. Paul,81766,patricias,password,[]
+167,Katie Olson,(876)492-6988,employee,Hartford,94516,katieo,password,[]
+168,Michael Morris,467-394-1602,employee,St. Paul,90351,michaelm,password,[]
+169,Harold Taylor,712.536.3931,employee,St. Paul,96609,haroldt,password,[]
+170,Sean Ellis,001-206-573-2332,employee,St. Paul,91590,seane,password,[]
+171,Jacqueline Williams,+1-201-562-7664,employee,Hartford,90452,jacquelinew,password,[]
+172,Brenda Harrington,843-605-3216,employee,Hartford,92469,brendah,password,[]
+173,Jessica Rush,237-751-7225,employee,St. Paul,98829,jessicar,password,[]
+174,Pamela Gill,504.591.4126,employee,Hartford,89645,pamelag,password,[]
+175,Samuel Terrell,001-414-411-9517,employee,St. Paul,82694,samuelt,password,[]
+176,Mary Frazier,462.572.3128,employee,St. Paul,92319,maryf,password,[]
+177,Amy Chavez,3805760804,employee,St. Paul,93355,amyc,password,[]
+178,Ashley Reynolds,916.820.5302,employee,St. Paul,98943,ashleyr,password,[]
+179,Matthew Powell,(798)729-2478,employee,St. Paul,98028,matthewp,password,[]
+180,Christine Allen,202-562-9067,employee,Hartford,96433,christinea,password,[]
+181,Jesse Huang,(804)402-7010,employee,Hartford,93028,jesseh,password,[]
+182,Steven James,867.568.4107,employee,St. Paul,91190,stevenj,password,[]
+183,Tiffany Douglas,752-805-9432,employee,St. Paul,98096,tiffanyd,password,[]
+184,Andrea Murphy,+1-264-955-9658,employee,Hartford,85660,andream,password,[]
+185,Douglas Guerrero,(493)627-2124,employee,Hartford,99349,douglasg,password,[]
+186,Jack Swanson,768.771.3814,employee,Hartford,91248,jacks,password,[]
+187,Emily Alexander,422-859-5016,employee,Hartford,101826,emilya,password,[]
+188,John Rivera,688.682.1752,employee,St. Paul,84159,johnr,password,[]
+189,James Patton,(471)657-8086,employee,Hartford,104217,jamesp,password,[]
+190,Amanda Terry,294-595-6139,employee,St. Paul,82778,amandat,password,[]
+191,Todd Maldonado,(766)639-1897,employee,Hartford,85135,toddm,password,[]
+192,Donna Davis,001-227-865-3015,employee,Hartford,99592,donnad,password,[]
+193,Rebecca Wright,6083293876,employee,St. Paul,92422,rebeccaw,password,[]
+194,Amy Strong,001-477-565-6459,employee,St. Paul,86639,amys,password,[]
+195,Brian Carter,+1-683-677-4162,employee,St. Paul,85594,brianc,password,[]
+196,Kristine Perez,615-368-5651,employee,Hartford,93630,kristinep,password,[]
+197,Jennifer Ford,887.771.7687,employee,St. Paul,99327,jenniferf,password,[]
+198,Lynn James,(642)452-1075,employee,St. Paul,99305,lynnj,password,[]
+199,Amy Copeland,001-342-827-1210,employee,Hartford,86073,amyc,password,[]
+200,Jennifer Kerr,4516189029,employee,St. Paul,87025,jenniferk,password,[]
+201,Julie Monroe,244-332-6150,employee,St. Paul,87060,juliem,password,[]
+202,Dakota Friedman,861-760-7296,employee,Hartford,88502,dakotaf,password,[]
+203,Steven Baker,8018546560,employee,St. Paul,92582,stevenb,password,[]
+204,Mitchell Jones,(395)804-9444,employee,Hartford,103954,mitchellj,password,[]
+205,Angela Summers,392-813-7347,employee,St. Paul,91956,angelas,password,[]
+206,Justin Perez,+1-448-242-2180,employee,St. Paul,94654,justinp,password,[]
+207,Jeremy Scott,(614)265-1603,employee,Hartford,88188,jeremys,password,[]
+208,Janice Martinez,(361)633-7916,employee,Hartford,101369,janicem,password,[]
+209,Leslie Mcclure,523.937.6115,employee,Hartford,98397,lesliem,password,[]
+210,Juan Chavez,505.434.5588,employee,St. Paul,86384,juanc,password,[]
+211,Cheryl Crawford,293.608.9705,employee,St. Paul,92719,cherylc,password,[]
+212,Jennifer Park,(299)834-4909,employee,Hartford,102443,jenniferp,password,[]
+213,Steven Knight,(363)866-5025,employee,Hartford,92649,stevenk,password,[]
+214,Stephanie Glenn,237-773-1230,employee,St. Paul,94073,stephanieg,password,[]
+215,Amanda Landry,(915)757-1217,employee,Hartford,100225,amandal,password,[]
+216,Patrick Gibbs,281-497-5849,employee,Hartford,96688,patrickg,password,[]
+217,Brenda Barrett,312.346.7344,employee,Hartford,95938,brendab,password,[]
+218,Richard Gardner,+1-372-536-2578,employee,St. Paul,96800,richardg,password,[]
+219,Yvonne Mccann,6645449152,employee,St. Paul,96860,yvonnem,password,[]
+220,Vanessa Mason,250.614.8937,employee,Hartford,86945,vanessam,password,[]
+221,Lisa Clark,(749)659-4970,employee,Hartford,96118,lisac,password,[]
+222,Kristin Turner,493.234.9361,employee,Hartford,89889,kristint,password,[]
+223,Stacy Freeman,+1-582-346-4388,employee,St. Paul,97736,stacyf,password,[]
+224,Adam Reed,558.458.1842,employee,Hartford,93291,adamr,password,[]
+225,Lynn Sanders,761-248-8270,employee,Hartford,86525,lynns,password,[]
+226,Lisa Rogers,726.702.8296,employee,Hartford,96067,lisar,password,[]
+227,Rachel Green,001-453-743-0436,employee,St. Paul,81688,rachelg,password,[]
+228,Leon Ellis,+1-266-537-8862,employee,St. Paul,90150,leone,password,[]
+229,Alicia Kennedy,879.965.2166,employee,Hartford,87424,aliciak,password,[]
+230,Carl Brewer,577.907.1875,employee,St. Paul,81773,carlb,password,[]
+231,Tammy Morales,906-235-5877,employee,Hartford,102875,tammym,password,[]
+232,Derrick Lambert,+1-277-784-8087,employee,Hartford,99149,derrickl,password,[]
+233,Jennifer Hunter,001-867-277-4875,employee,Hartford,98955,jenniferh,password,[]
+234,Laura Johnson,+1-989-381-5670,employee,St. Paul,91923,lauraj,password,[]
+235,Angelica Gutierrez,374.975.0315,employee,St. Paul,94816,angelicag,password,[]
+236,Melissa Lewis,749.249.9686,employee,Hartford,96219,melissal,password,[]
+237,William Morales,001-880-990-5783,employee,St. Paul,85235,williamm,password,[]
+238,Dean Montgomery,310-724-5165,employee,St. Paul,92007,deanm,password,[]
+239,Christopher Lucero,(314)480-8755,employee,St. Paul,86729,christopherl,password,[]
+240,Jessica Delgado,+1-389-789-5879,employee,St. Paul,98251,jessicad,password,[]
+241,Scott Booker,613.838.1185,employee,St. Paul,91659,scottb,password,[]
+242,Brandon Harris,+1-731-425-6970,employee,Hartford,90602,brandonh,password,[]
+243,Christine Lynn,001-347-676-8696,employee,Hartford,103413,christinel,password,[]
+244,Michael Owens,913-772-3713,employee,Hartford,100202,michaelo,password,[]
+245,Sandra Mitchell,(810)803-3311,employee,Hartford,102117,sandram,password,[]
+246,Michelle Ramirez,(550)757-1425,employee,Hartford,104877,micheller,password,[]
+247,Jenny White,735-358-4160,employee,St. Paul,88359,jennyw,password,[]
+248,Elizabeth Zamora,952.268.2782,employee,St. Paul,84807,elizabethz,password,[]
+249,William Brown,+1-487-860-2535,employee,Hartford,86225,williamb,password,[]
+250,Alan Holmes,(997)445-2951,employee,St. Paul,93781,alanh,password,[]
+251,Kathleen Miller,202-496-6474,employee,Hartford,89580,kathleenm,password,[]
+252,Todd Wallace,001-250-587-6637,employee,Hartford,90671,toddw,password,[]
+253,Eric Mcpherson,001-846-621-2879,employee,St. Paul,88836,ericm,password,[]
+254,Isaiah Turner,6143267246,employee,St. Paul,86169,isaiaht,password,[]
+255,Deborah Carroll,6314803007,employee,St. Paul,87231,deborahc,password,[]
+256,Sarah Warren,(824)965-6310,employee,St. Paul,97853,sarahw,password,[]
+257,Scott Jackson,5237382551,employee,St. Paul,86293,scottj,password,[]
+258,Maria Elliott,706.646.9178,employee,St. Paul,88739,mariae,password,[]
+259,Vincent Williams,(591)311-6975,employee,St. Paul,87047,vincentw,password,[]
+260,Monica Medina,(274)536-5024,employee,St. Paul,90715,monicam,password,[]
+261,Tanya Thompson,6839223521,employee,Hartford,104879,tanyat,password,[]
+262,John Brown,653-554-4238,employee,Hartford,97434,johnb,password,[]
+263,Jessica White,(851)783-4034,employee,Hartford,88207,jessicaw,password,[]
+264,Ashley Jackson,429-340-5073,employee,St. Paul,94608,ashleyj,password,[]
+265,Eric George,(257)629-4085,employee,Hartford,100366,ericg,password,[]
+266,Frank Cervantes,(316)688-7788,employee,Hartford,88366,frankc,password,[]
+267,Roberta Roberts,2572795878,employee,Hartford,87591,robertar,password,[]
+268,Sara Keller,001-398-535-6227,employee,St. Paul,98280,sarak,password,[]
+269,Kathryn Bates,732.405.9840,employee,St. Paul,83953,kathrynb,password,[]
+270,Elizabeth Wells,+1-663-608-0842,employee,Hartford,94486,elizabethw,password,[]
+271,Joshua Huynh,631.233.6910,employee,Hartford,86995,joshuah,password,[]
+272,Melissa Clark,7574058715,employee,St. Paul,82429,melissac,password,[]
+273,Molly Little,801-712-0540,employee,Hartford,91080,mollyl,password,[]
+274,Kathy Salinas,655-905-0625,employee,Hartford,102204,kathys,password,[]
+275,Jeffrey Webb,(652)980-1011,employee,St. Paul,97827,jeffreyw,password,[]
+276,Austin Flores,260-943-1812,employee,St. Paul,86760,austinf,password,[]
+277,Alfred Walker,3554453518,employee,Hartford,85538,alfredw,password,[]
+278,Joanna Hart,(581)531-5654,employee,St. Paul,81737,joannah,password,[]
+279,Michelle Burke,(546)227-5155,employee,St. Paul,81814,michelleb,password,[]
+280,Christopher Hayes,205.772.9128,employee,Hartford,89339,christopherh,password,[]
+281,Zachary Walton,(450)306-4593,employee,St. Paul,91604,zacharyw,password,[]
+282,Kenneth Gonzales,(314)695-7323,employee,St. Paul,87864,kennethg,password,[]
+283,Maria Simpson,+1-727-740-6386,employee,St. Paul,93566,marias,password,[]
+284,Frank Turner,497.462.7547,employee,St. Paul,88049,frankt,password,[]
+285,Blake Davis,370-653-5635,employee,Hartford,94839,blaked,password,[]
+286,Connie Adams,601.247.1839,employee,Hartford,93020,conniea,password,[]
+287,Dana Mills,291.674.7573,employee,Hartford,104722,danam,password,[]
+288,Lisa Patel,800-886-0258,employee,Hartford,98603,lisap,password,[]
+289,James Singleton,702.671.4270,employee,Hartford,100487,jamess,password,[]
+290,Andrew Austin,531-321-6071,employee,St. Paul,81407,andrewa,password,[]
+291,Mark Lopez,+1-331-945-9774,employee,St. Paul,99049,markl,password,[]
+292,Marvin Garcia,858-278-4129,employee,St. Paul,91107,marving,password,[]
+293,Nicholas Norman,7315714482,employee,Hartford,96405,nicholasn,password,[]
+294,Tracey Black,214-964-6166,employee,Hartford,94615,traceyb,password,[]
+295,William Avila,001-231-547-6690,employee,St. Paul,82921,williama,password,[]
+296,Joan Wiggins,750.876.2908,employee,Hartford,103781,joanw,password,[]
+297,Christopher Rubio,689.843.4896,employee,Hartford,96903,christopherr,password,[]
+298,Jean Nelson,208.807.3115,employee,St. Paul,95237,jeann,password,[]
+299,Travis Green,419-796-5219,employee,Hartford,87706,travisg,password,[]
+300,Natalie Woods,(545)518-4747,employee,St. Paul,91517,nataliew,password,[]
+301,Evelyn West,242-992-6668,employee,St. Paul,88880,evelynw,password,[]
+302,Erin Rodriguez,586.578.5572,employee,Hartford,91017,erinr,password,[]
+303,Kathleen Ferguson,438-420-9783,employee,St. Paul,98014,kathleenf,password,[]
+304,Sarah Williams,001-950-293-8203,employee,Hartford,90250,sarahw,password,[]
+305,Linda Frazier,+1-602-944-7574,employee,Hartford,91185,lindaf,password,[]
+306,Jeffrey Moore,+1-807-315-8207,employee,St. Paul,94507,jeffreym,password,[]
+307,James Miles,+1-980-859-8591,employee,St. Paul,94015,jamesm,password,[]
+308,Rachel Martinez,001-972-341-2310,employee,Hartford,96004,rachelm,password,[]
+309,David White,6369891514,employee,Hartford,88476,davidw,password,[]
+310,Scott Sanchez,512-328-3408,employee,Hartford,96813,scotts,password,[]
+311,Billy Roberts,9285569136,employee,Hartford,87137,billyr,password,[]
+312,Tyler Becker,+1-611-781-5183,employee,Hartford,96954,tylerb,password,[]
+313,Alan Young,385.772.8830,employee,St. Paul,89054,alany,password,[]
+314,Jeremy Smith,264.890.7603,employee,St. Paul,81429,jeremys,password,[]
+315,Emily Branch,951.369.0601,employee,St. Paul,90764,emilyb,password,[]
+316,Benjamin Blake,(837)676-9804,employee,St. Paul,90669,benjaminb,password,[]
+317,Eric Weber,+1-243-945-3610,employee,St. Paul,80435,ericw,password,[]
+318,John Rose,361-765-1718,employee,St. Paul,96046,johnr,password,[]
+319,Erika Anderson,001-623-793-2635,employee,St. Paul,80032,erikaa,password,[]
+320,Kimberly Garrett,298.625.3355,employee,Hartford,98109,kimberlyg,password,[]
+321,Juan King,594-544-3084,employee,St. Paul,96497,juank,password,[]
+322,Zachary Robinson,001-217-971-7216,employee,Hartford,101162,zacharyr,password,[]
+323,Melissa Monroe,252.552.9206,employee,Hartford,97658,melissam,password,[]
+324,Kristina Jackson,369-721-7840,employee,St. Paul,97500,kristinaj,password,[]
+325,Vincent Riley,(873)722-7107,employee,Hartford,90259,vincentr,password,[]
+326,Mark Atkins,(274)683-7782,employee,Hartford,92091,marka,password,[]
+327,Kimberly Sosa,981-578-0187,employee,Hartford,96835,kimberlys,password,[]
+328,Carolyn Thompson,927-797-4896,employee,St. Paul,80204,carolynt,password,[]
+329,Zachary Brown,449.255.4174,employee,St. Paul,92627,zacharyb,password,[]
+330,Raymond Jones,(257)869-7362,employee,St. Paul,81231,raymondj,password,[]
+331,Barbara Cline,001-866-789-5786,employee,Hartford,98541,barbarac,password,[]
+332,Aaron Miller,(348)694-6139,employee,Hartford,101715,aaronm,password,[]
+333,Meredith Gibbs,872.288.9448,employee,St. Paul,82628,meredithg,password,[]
+334,Christine Kelley,(686)796-6878,employee,Hartford,93085,christinek,password,[]
+335,David Lamb,(303)531-5968,employee,St. Paul,88633,davidl,password,[]
+336,Christine Hendrix,(682)453-9293,employee,St. Paul,80631,christineh,password,[]
+337,Keith Davis,899-586-9220,employee,St. Paul,94327,keithd,password,[]
+338,Stephen Lee,+1-636-437-1257,employee,Hartford,86129,stephenl,password,[]
+339,Christine Perry,346-463-0244,employee,Hartford,98219,christinep,password,[]
+340,Jessica Carson,870.588.1723,employee,St. Paul,93300,jessicac,password,[]
+341,Kristie Pittman,(299)776-4784,employee,St. Paul,88812,kristiep,password,[]
+342,Caleb Conner,231.212.0007,employee,Hartford,99360,calebc,password,[]
+343,Richard Oliver,+1-262-237-2775,employee,Hartford,101426,richardo,password,[]
+344,Elizabeth Martinez,803-671-7080,employee,St. Paul,97115,elizabethm,password,[]
+345,Kelly Lowe,249.608.7441,employee,Hartford,93747,kellyl,password,[]
+346,Victoria Collins,(509)498-8433,employee,Hartford,92623,victoriac,password,[]
+347,Andrea Harper,001-607-785-6054,employee,St. Paul,93608,andreah,password,[]
+348,Matthew Duncan,+1-355-487-3283,employee,Hartford,98200,matthewd,password,[]
+349,Andrea Jordan,+1-701-250-0941,employee,Hartford,86671,andreaj,password,[]
+350,Sherry Peters,001-232-862-8442,employee,St. Paul,93174,sherryp,password,[]
+351,Monica Butler,452.649.9624,employee,Hartford,92664,monicab,password,[]
+352,William Garcia,001-821-896-9650,employee,Hartford,88977,williamg,password,[]
+353,John Gates,260.790.5885,employee,St. Paul,85991,johng,password,[]
+354,Brandon Anderson,001-527-431-9716,employee,St. Paul,83519,brandona,password,[]
+355,Charles Trujillo,001-319-473-9320,employee,Hartford,102575,charlest,password,[]
+356,Kristin Sullivan,(459)458-5017,employee,St. Paul,83462,kristins,password,[]
+357,Jermaine Henry,958.434.7488,employee,Hartford,89918,jermaineh,password,[]
+358,Derek Henderson,001-774-533-5931,employee,Hartford,98372,derekh,password,[]
+359,Barbara Martinez,877-927-6938,employee,Hartford,90272,barbaram,password,[]
+360,Kimberly Burnett,+1-854-785-2801,employee,St. Paul,85279,kimberlyb,password,[]
+361,Rebecca Davis,001-927-599-8745,employee,St. Paul,85022,rebeccad,password,[]
+362,Adrian Cisneros,6539176568,employee,Hartford,101505,adrianc,password,[]
+363,Michael Sherman,+1-944-672-1897,employee,St. Paul,81274,michaels,password,[]
+364,Pamela Rogers,(250)601-3511,employee,Hartford,95682,pamelar,password,[]
+365,Carmen Lowe,734.678.2699,employee,Hartford,101553,carmenl,password,[]
+366,Corey Harrison,(354)332-1762,employee,Hartford,91590,coreyh,password,[]
+367,Amy Boyle,442.939.6912,employee,St. Paul,81153,amyb,password,[]
+368,Brandon Crawford,+1-252-949-2207,employee,St. Paul,97241,brandonc,password,[]
+369,Richard Martinez,(796)797-6808,employee,Hartford,102612,richardm,password,[]
+370,Donald Mcgrath,(816)665-8782,employee,Hartford,102938,donaldm,password,[]
+371,Christina Griffin,+1-635-294-5352,employee,St. Paul,98892,christinag,password,[]
+372,Laura Cantrell,981.872.9943,employee,St. Paul,89185,laurac,password,[]
+373,Kristy Johnson,+1-684-854-5079,employee,Hartford,96128,kristyj,password,[]
+374,Carly Bowman,842.755.4387,employee,Hartford,100860,carlyb,password,[]
+375,Justin Bowers,001-943-371-0632,employee,Hartford,89569,justinb,password,[]
+376,Lee Collins,2535941585,employee,St. Paul,80680,leec,password,[]
+377,Heather Buckley,457-561-0563,employee,Hartford,100874,heatherb,password,[]
+378,Brandon Carpenter,001-881-908-8311,employee,St. Paul,96521,brandonc,password,[]
+379,Joseph Hill,545.495.1853,employee,St. Paul,85545,josephh,password,[]
+380,Andrew Cruz,+1-216-335-0484,employee,Hartford,91637,andrewc,password,[]
+381,Karen Liu,439-866-5482,employee,Hartford,104508,karenl,password,[]
+382,Dustin Bailey,+1-461-719-6089,employee,Hartford,88125,dustinb,password,[]
+383,Nathan Hancock,+1-659-762-1824,employee,Hartford,100193,nathanh,password,[]
+384,Hayden Meza,(549)804-1836,employee,St. Paul,82463,haydenm,password,[]
+385,Emily Kelly,001-989-486-9734,employee,Hartford,85133,emilyk,password,[]
+386,Robert Gilmore,+1-950-737-8349,employee,Hartford,100770,robertg,password,[]
+387,Vanessa Johnson,536-992-8556,employee,St. Paul,96294,vanessaj,password,[]
+388,Molly Gutierrez,755.506.7156,employee,Hartford,103629,mollyg,password,[]
+389,Richard Martinez,928-533-9754,employee,St. Paul,84955,richardm,password,[]
+390,Scott Wilkins,+1-486-623-0526,employee,St. Paul,89640,scottw,password,[]
+391,Carlos Gonzales,(259)876-1674,employee,St. Paul,94248,carlosg,password,[]
+392,Ashley Edwards,(438)582-1101,employee,St. Paul,95715,ashleye,password,[]
+393,Susan Jordan,463-335-5749,employee,Hartford,90429,susanj,password,[]
+394,Lori Moody,7338352268,employee,Hartford,104888,lorim,password,[]
+395,Joseph Mitchell,(234)371-7085,employee,St. Paul,92658,josephm,password,[]
+396,Susan Holland,204-707-2653,employee,Hartford,104059,susanh,password,[]
+397,Pamela Eaton,(437)854-4407,employee,St. Paul,85733,pamelae,password,[]
+398,Tammy Bauer,+1-410-471-6839,employee,St. Paul,85550,tammyb,password,[]
+399,Aaron Pratt,923.855.5680,employee,St. Paul,97843,aaronp,password,[]
+400,Jacob Ferguson,(881)334-7149,employee,St. Paul,96242,jacobf,password,[]
+401,Karen Lindsey,(794)637-8048,employee,St. Paul,88267,karenl,password,[]
+402,Clifford Mathis,847.314.0057,employee,St. Paul,89682,cliffordm,password,[]
+403,Nicole Powell,001-582-416-4838,employee,Hartford,102833,nicolep,password,[]
+404,Norman Dodson,(502)453-1732,employee,Hartford,90374,normand,password,[]
+405,Gregory Collier,206.515.9591,employee,Hartford,100313,gregoryc,password,[]
+406,Jack Smith,(975)501-9375,employee,Hartford,93624,jacks,password,[]
+407,Samuel Jones,001-964-779-1932,employee,St. Paul,90831,samuelj,password,[]
+408,Michael Tucker,4707113331,employee,Hartford,92602,michaelt,password,[]
+409,Denise Rose,001-534-500-7688,employee,Hartford,100249,deniser,password,[]
+410,Scott Montgomery,+1-341-714-6440,employee,Hartford,94636,scottm,password,[]
+411,Patrick Smith,(286)793-7799,employee,St. Paul,83215,patricks,password,[]
+412,Ivan Burns,4209444758,employee,St. Paul,96179,ivanb,password,[]
+413,Jenna Kim,(707)852-0732,employee,St. Paul,92646,jennak,password,[]
+414,Brandon Barnett,(344)735-3459,employee,Hartford,96200,brandonb,password,[]
+415,Jennifer Williams,689.268.6021,employee,St. Paul,99238,jenniferw,password,[]
+416,Michael Wyatt,507-962-2559,employee,Hartford,98935,michaelw,password,[]
+417,Steven Combs,9923302096,employee,Hartford,92100,stevenc,password,[]
+418,Samantha Vang,+1-405-722-3857,employee,St. Paul,88985,samanthav,password,[]
+419,Michele Mcclure,(548)818-1614,employee,Hartford,103648,michelem,password,[]
+420,Alyssa Hayes,7506564656,employee,St. Paul,90350,alyssah,password,[]
+421,Julie Bell,513-348-9808,employee,Hartford,95457,julieb,password,[]
+422,Amy Pierce,(650)549-2691,employee,St. Paul,96067,amyp,password,[]
+423,Alison Dominguez,+1-736-430-7679,employee,St. Paul,97577,alisond,password,[]
+424,Melissa Bradford,232.262.4351,employee,St. Paul,92497,melissab,password,[]
+425,Gary Johnson,791-610-4240,employee,Hartford,91233,garyj,password,[]
+426,Jacob Moore,(232)478-9830,employee,Hartford,87205,jacobm,password,[]
+427,Melanie Casey,+1-409-378-1932,employee,St. Paul,95151,melaniec,password,[]
+428,Katherine Walton,+1-818-222-5693,employee,St. Paul,81602,katherinew,password,[]
+429,William Braun,(312)299-9233,employee,St. Paul,88191,williamb,password,[]
+430,Katelyn Munoz,979-721-1303,employee,St. Paul,82371,katelynm,password,[]
+431,Ruben Evans,252-748-2714,employee,St. Paul,81751,rubene,password,[]
+432,Julian Young,(748)429-5796,employee,St. Paul,90681,juliany,password,[]
+433,Christopher Yoder,(975)333-9737,employee,Hartford,90796,christophery,password,[]
+434,Ashley Bernard,592.550.0847,employee,St. Paul,84500,ashleyb,password,[]
+435,Gregory Owens,001-700-201-7770,employee,Hartford,95806,gregoryo,password,[]
+436,Laura Johnson,7299561289,employee,Hartford,98951,lauraj,password,[]
+437,Eric Park,457.369.3536,employee,St. Paul,81141,ericp,password,[]
+438,Shawn Walton,975.278.1408,employee,St. Paul,89370,shawnw,password,[]
+439,Jennifer Franklin,001-590-210-9607,employee,St. Paul,86846,jenniferf,password,[]
+440,Matthew Mueller,(234)878-1201,employee,St. Paul,90242,matthewm,password,[]
+441,Jermaine Smith,001-392-978-9935,employee,St. Paul,98409,jermaines,password,[]
+442,Teresa Rosario,695.824.4562,employee,St. Paul,91344,teresar,password,[]
+443,Sandra Nunez,+1-417-656-8345,employee,Hartford,96347,sandran,password,[]
+444,Damon Adkins,854-620-1900,employee,Hartford,95935,damona,password,[]
+445,Kelsey Leach,+1-699-518-9567,employee,St. Paul,83759,kelseyl,password,[]
+446,Renee Jackson,7343254783,employee,St. Paul,80966,reneej,password,[]
+447,Geoffrey Harmon,+1-707-603-0538,employee,Hartford,103928,geoffreyh,password,[]
+448,Jack Contreras,+1-330-304-8526,employee,Hartford,90520,jackc,password,[]
+449,Kim Randolph,001-403-982-9065,employee,Hartford,97309,kimr,password,[]
+450,Ashley Browning,557-301-6983,employee,Hartford,85023,ashleyb,password,[]
+451,Jesse Hernandez,982-758-9651,employee,St. Paul,94715,jesseh,password,[]
+452,John Buchanan,591.791.8336,employee,Hartford,97645,johnb,password,[]
+453,William Santiago,+1-423-518-4606,employee,St. Paul,82829,williams,password,[]
+454,Margaret Wilson,(588)581-5172,employee,St. Paul,91486,margaretw,password,[]
+455,Andrea Bartlett,298-947-1864,employee,Hartford,104386,andreab,password,[]
+456,Margaret Salinas,(781)824-7003,employee,Hartford,86344,margarets,password,[]
+457,Amber Hart,623-545-2932,employee,St. Paul,88338,amberh,password,[]
+458,Nathan Jones,+1-455-930-6520,employee,Hartford,86684,nathanj,password,[]
+459,Shawn Arnold,4306733566,employee,St. Paul,87852,shawna,password,[]
+460,Angela Williams,572-907-6061,employee,Hartford,100394,angelaw,password,[]
+461,Karen Ward,7613779896,employee,Hartford,101572,karenw,password,[]
+462,Lindsey Esparza,801.563.7840,employee,St. Paul,94408,lindseye,password,[]
+463,Heather Taylor,442-556-0759,employee,St. Paul,92313,heathert,password,[]
+464,Samuel Williams,+1-642-499-4665,employee,Hartford,93501,samuelw,password,[]
+465,Jacob Bennett,+1-956-450-6776,employee,St. Paul,91063,jacobb,password,[]
+466,Crystal Alexander,+1-760-225-9061,employee,St. Paul,88590,crystala,password,[]
+467,Justin Watkins,+1-775-837-7980,employee,Hartford,104801,justinw,password,[]
+468,Nicole Reyes,260-675-5886,employee,Hartford,101953,nicoler,password,[]
+469,Wesley Horton,243.614.7091,employee,Hartford,101921,wesleyh,password,[]
+470,John Grimes,001-678-264-5177,employee,St. Paul,93794,johng,password,[]
+471,Brian Branch,+1-733-734-4379,employee,St. Paul,92093,brianb,password,[]
+472,Jack Walls,(225)261-7627,employee,Hartford,100135,jackw,password,[]
+473,Carrie Brown,+1-652-844-9383,employee,St. Paul,82175,carrieb,password,[]
+474,Anthony Hutchinson,001-293-609-7715,employee,St. Paul,93611,anthonyh,password,[]
+475,Loretta Smith,589-484-2738,employee,Hartford,101193,lorettas,password,[]
+476,Austin Oliver,(245)772-4600,employee,St. Paul,89219,austino,password,[]
+477,Mike Ibarra,324.797.5462,employee,Hartford,85992,mikei,password,[]
+478,Justin Nguyen,001-261-795-4333,employee,Hartford,88507,justinn,password,[]
+479,Tiffany Cantu,+1-544-579-3175,employee,St. Paul,98213,tiffanyc,password,[]
+480,Luke Clements,7457404741,employee,St. Paul,99379,lukec,password,[]
+481,Cody Koch,527-897-8091,employee,St. Paul,80074,codyk,password,[]
+482,Billy Oneill,(600)601-1730,employee,St. Paul,90066,billyo,password,[]
+483,Brian Woods,(261)776-5538,employee,Hartford,89062,brianw,password,[]
+484,Virginia Smith,271-868-1012,employee,St. Paul,97114,virginias,password,[]
+485,Whitney Maxwell,+1-251-824-7019,employee,St. Paul,88983,whitneym,password,[]
+486,William Cobb,392.943.9429,employee,Hartford,103011,williamc,password,[]
+487,Mariah Johnson,(337)968-2244,employee,St. Paul,80349,mariahj,password,[]
+488,Mary Hobbs,+1-261-649-4362,employee,St. Paul,85137,maryh,password,[]
+489,Katherine Cruz,(855)816-9098,employee,St. Paul,93536,katherinec,password,[]
+490,Amanda Rivas,807.486.3485,employee,Hartford,104645,amandar,password,[]
+491,Cheyenne Humphrey,001-900-513-5036,employee,St. Paul,85571,cheyenneh,password,[]
+492,Barry Williamson,665-845-8234,employee,St. Paul,97534,barryw,password,[]
+493,Stacey Sawyer,449-527-2819,employee,St. Paul,96298,staceys,password,[]
+494,Amanda Miller,(395)736-3885,employee,Hartford,90043,amandam,password,[]
+495,Victoria Norton,001-913-236-9301,employee,Hartford,90723,victorian,password,[]
+496,Douglas Flynn,369-445-4786,employee,St. Paul,89348,douglasf,password,[]
+497,Joel Adams,+1-573-991-7361,employee,Hartford,86824,joela,password,[]
+498,Debbie Haas,314.972.4559,employee,Hartford,92967,debbieh,password,[]
+499,Edwin Hurst,434-479-5970,employee,St. Paul,96822,edwinh,password,[]
+500,Brian May,+1-773-797-3313,employee,St. Paul,81989,brianm,password,[]
+501,Edwin Perez,3057793987,employee,St. Paul,88549,edwinp,password,[]
+502,Sarah Gordon,(926)834-5182,employee,St. Paul,99008,sarahg,password,[]
+503,Felicia Sanford,238.547.0892,employee,Hartford,101295,felicias,password,[]
+504,Kristen Barry,001-253-969-7339,employee,St. Paul,92768,kristenb,password,[]
+505,Karen Martin,+1-374-656-1168,employee,St. Paul,92662,karenm,password,[]
+506,Amanda Roach,+1-354-533-2985,employee,St. Paul,95397,amandar,password,[]
+507,Nicole Mcknight,615-461-4183,employee,Hartford,93443,nicolem,password,[]
+508,James Garcia,741-504-9084,employee,St. Paul,83057,jamesg,password,[]
+509,Katelyn Mcpherson,+1-566-687-4139,employee,Hartford,94309,katelynm,password,[]
+510,Jacqueline Campbell,001-276-899-5467,employee,Hartford,94004,jacquelinec,password,[]
+511,Tina Lester,607-264-8535,employee,Hartford,85217,tinal,password,[]
+512,Jeremy Lopez,324.449.1929,employee,St. Paul,91665,jeremyl,password,[]
+513,Arthur Preston,(700)269-2285,employee,St. Paul,86241,arthurp,password,[]
+514,Randall Mendoza,954.991.8681,employee,Hartford,89930,randallm,password,[]
+515,Taylor Bryan,001-249-518-9907,employee,Hartford,94765,taylorb,password,[]
+516,Jacob Lopez,+1-780-770-0153,employee,St. Paul,90697,jacobl,password,[]
+517,Larry Baker,5427192602,employee,Hartford,85473,larryb,password,[]
+518,Sharon Howell,+1-718-505-8806,employee,St. Paul,97463,sharonh,password,[]
+519,Nancy Coleman,(286)293-8500,employee,Hartford,100501,nancyc,password,[]
+520,Latasha Mcdonald,(217)995-7999,employee,St. Paul,83351,latasham,password,[]
+521,Johnny Mcmahon,240-322-0652,employee,Hartford,97783,johnnym,password,[]
+522,Christian Bradshaw,301.772.8046,employee,St. Paul,82372,christianb,password,[]
+523,Jason Torres,(807)906-7995,employee,Hartford,102893,jasont,password,[]
+524,Michael Duarte,392.379.1548,employee,Hartford,101727,michaeld,password,[]
+525,Brandy Martin,785-520-8633,employee,Hartford,95644,brandym,password,[]
+526,Kelly Walker,889.838.8089,employee,Hartford,87587,kellyw,password,[]
+527,Jody Lane,+1-563-299-4481,employee,St. Paul,80198,jodyl,password,[]
+528,Jay Houston,939-783-0667,employee,St. Paul,94309,jayh,password,[]
+529,Gregory Clark,746-619-0750,employee,Hartford,99470,gregoryc,password,[]
+530,Kevin Green,001-434-704-6759,employee,Hartford,98764,keving,password,[]
+531,Thomas Torres,4463364920,employee,St. Paul,99882,thomast,password,[]
+532,Robert Kane,571.496.2181,employee,Hartford,98410,robertk,password,[]
+533,Gavin Carter,620.514.7090,employee,Hartford,101335,gavinc,password,[]
+534,Mary Munoz,(817)712-3946,employee,St. Paul,90148,marym,password,[]
+535,Alex Wade,+1-970-387-4108,employee,Hartford,95358,alexw,password,[]
+536,Joseph Ruiz,(836)758-6859,employee,Hartford,87139,josephr,password,[]
+537,Tiffany Walls,783-240-5761,employee,Hartford,101476,tiffanyw,password,[]
+538,Joseph Hall,+1-201-733-8177,employee,Hartford,91812,josephh,password,[]
+539,Phillip Miller,(435)447-5311,employee,Hartford,92480,phillipm,password,[]
+540,Melissa Baker,672.983.3529,employee,Hartford,96548,melissab,password,[]
+541,Carrie Lawson,001-726-262-2154,employee,Hartford,90842,carriel,password,[]
+542,Jared Clark,+1-616-515-0404,employee,St. Paul,90451,jaredc,password,[]
+543,Robert Phillips,(808)366-6273,employee,St. Paul,89453,robertp,password,[]
+544,Keith Bell,(863)517-1812,employee,Hartford,89577,keithb,password,[]
+545,Lisa Rogers,+1-480-430-8445,employee,St. Paul,88374,lisar,password,[]
+546,Chris Dennis,521-447-3519,employee,Hartford,91354,chrisd,password,[]
+547,Courtney Daniels,657.698.6396,employee,St. Paul,95236,courtneyd,password,[]
+548,John Harrell,+1-663-906-4758,employee,St. Paul,85697,johnh,password,[]
+549,Joseph Weaver,913.210.0312,employee,St. Paul,85431,josephw,password,[]
+550,Lindsey Smith,001-550-825-1959,employee,Hartford,102104,lindseys,password,[]
+551,Julie Manning,+1-227-264-5176,employee,Hartford,93085,juliem,password,[]
+552,Vanessa Butler,(202)396-7891,employee,Hartford,103300,vanessab,password,[]
+553,John Bender,001-630-456-7877,employee,Hartford,85960,johnb,password,[]
+554,Logan Wright,509.713.1478,employee,St. Paul,90633,loganw,password,[]
+555,Timothy Jones,001-481-267-1231,employee,St. Paul,89956,timothyj,password,[]
+556,Michele Williams,001-887-690-5835,employee,St. Paul,81214,michelew,password,[]
+557,Eric Berg,+1-281-316-4670,employee,Hartford,90324,ericb,password,[]
+558,Brian Reyes,8098785832,employee,Hartford,89607,brianr,password,[]
+559,Catherine Orozco,001-289-212-4619,employee,Hartford,104078,catherineo,password,[]
+560,Isaiah Medina,586-605-5515,employee,Hartford,92606,isaiahm,password,[]
+561,Thomas Taylor,001-486-464-6193,employee,Hartford,100100,thomast,password,[]
+562,Kayla Martinez,657.238.9536,employee,Hartford,87111,kaylam,password,[]
+563,Tara Brewer,+1-645-753-4727,employee,Hartford,95250,tarab,password,[]
+564,Brandi Hester,943.687.2612,employee,St. Paul,97446,brandih,password,[]
+565,Juan Hunter,885-543-6974,employee,St. Paul,90361,juanh,password,[]
+566,Stephen Fischer,+1-463-961-6471,employee,Hartford,85048,stephenf,password,[]
+567,Erik Mcdonald,(372)846-7244,employee,Hartford,92257,erikm,password,[]
+568,Debbie Jones,+1-806-704-6297,employee,Hartford,87078,debbiej,password,[]
+569,Martha Baker,864.492.0626,employee,Hartford,104586,marthab,password,[]
+570,Adrienne Thomas,805-271-8656,employee,Hartford,102668,adriennet,password,[]
+571,Anthony Johnson,(969)480-2345,employee,Hartford,86534,anthonyj,password,[]
+572,Thomas Moran,592.873.6841,employee,Hartford,93063,thomasm,password,[]
+573,Kayla Reese,001-613-890-3279,employee,St. Paul,81114,kaylar,password,[]
+574,Bethany Pollard,957.789.2801,employee,St. Paul,81580,bethanyp,password,[]
+575,Jaclyn Villanueva,+1-735-566-7098,employee,St. Paul,91624,jaclynv,password,[]
+576,Rebecca Robinson,+1-914-735-8375,employee,St. Paul,89708,rebeccar,password,[]
+577,Adam Pham,001-247-274-4468,employee,Hartford,96348,adamp,password,[]
+578,Chris Scott,341.997.3176,employee,Hartford,93808,chriss,password,[]
+579,Erin Stone,(976)713-2676,employee,St. Paul,93261,erins,password,[]
+580,Maria Warner,(670)786-9091,employee,Hartford,86286,mariaw,password,[]
+581,Jennifer Parker,988-288-6808,employee,St. Paul,85158,jenniferp,password,[]
+582,Erika Thompson,001-984-446-6860,employee,St. Paul,95044,erikat,password,[]
+583,Jared Clark,519.794.5024,employee,Hartford,86523,jaredc,password,[]
+584,Rachel Choi,864-934-8723,employee,Hartford,85454,rachelc,password,[]
+585,James Aguilar,001-477-590-2369,employee,Hartford,100541,jamesa,password,[]
+586,Maria Torres,379.420.1583,employee,St. Paul,90103,mariat,password,[]
+587,Nancy Thompson,692-649-3048,employee,St. Paul,94337,nancyt,password,[]
+588,Cody Pierce,4789515243,employee,St. Paul,95135,codyp,password,[]
+589,Harold Ramirez,582.657.0569,employee,Hartford,101549,haroldr,password,[]
+590,Michele Garcia,577.633.9402,employee,St. Paul,86219,micheleg,password,[]
+591,Robert Hernandez,+1-310-445-6851,employee,Hartford,96000,roberth,password,[]
+592,Angela Rogers,285-289-3621,employee,St. Paul,84484,angelar,password,[]
+593,Joshua Hoffman,904.765.2229,employee,Hartford,87051,joshuah,password,[]
+594,Christina Flores,672.734.1200,employee,Hartford,85578,christinaf,password,[]
+595,Alexandra Sandoval,4267558392,employee,Hartford,97515,alexandras,password,[]
+596,Joseph Fischer,+1-503-810-1996,employee,Hartford,87137,josephf,password,[]
+597,Melinda Perry,8415353625,employee,Hartford,101930,melindap,password,[]
+598,Michael Parker,001-793-335-8590,employee,Hartford,99288,michaelp,password,[]
+599,Michael Hinton,001-420-877-2175,employee,St. Paul,80585,michaelh,password,[]
+600,Carolyn Peters,515-934-8959,employee,St. Paul,85044,carolynp,password,[]
+601,Frederick Walsh,744.806.7983,manager,Hartford,140647,frederickw,password,"[1, 2, 3]"
+602,Theodore Wilson,464-964-6031,manager,St. Paul,130893,theodorew,password,"[4, 5, 6]"
+603,Corey Cole,372-628-2039,manager,Hartford,148937,coreyc,password,"[7, 8, 9]"
+604,Joy Carpenter,001-821-972-4542,manager,St. Paul,143844,joyc,password,"[10, 11, 12]"
+605,Danielle Williams,001-717-254-4370,manager,St. Paul,135394,daniellew,password,"[13, 14, 15]"
+606,Jeffrey Abbott,778-617-0947,manager,St. Paul,125970,jeffreya,password,"[16, 17, 18]"
+607,Misty Young,+1-584-582-2363,manager,St. Paul,121773,mistyy,password,"[19, 20, 21]"
+608,Jeffrey Avery,(916)448-6071,manager,Hartford,145197,jeffreya,password,"[22, 23, 24]"
+609,Benjamin Keith,832.507.5782,manager,St. Paul,132539,benjamink,password,"[25, 26, 27]"
+610,David Moreno,(788)701-3152,manager,Hartford,146081,davidm,password,"[28, 29, 30]"
+611,Alex Campbell,+1-979-871-5996,manager,Hartford,128247,alexc,password,"[31, 32, 33]"
+612,Caroline Estrada,+1-448-563-3901,manager,Hartford,134213,carolinee,password,"[34, 35, 36]"
+613,Melissa Lyons,(433)977-4392,manager,Hartford,153272,melissal,password,"[37, 38, 39]"
+614,Lisa Kim,(924)691-2321,manager,Hartford,141677,lisak,password,"[40, 41, 42]"
+615,Donald Jordan,001-942-679-2175,manager,St. Paul,128644,donaldj,password,"[43, 44, 45]"
+616,Paul Bass,001-219-836-7510,manager,Hartford,143933,paulb,password,"[46, 47, 48]"
+617,Heidi Anderson,5382569269,manager,Hartford,147316,heidia,password,"[49, 50, 51]"
+618,Paul Brown,+1-450-764-1517,manager,St. Paul,146694,paulb,password,"[52, 53, 54]"
+619,Michael Vargas,001-593-971-5941,manager,Hartford,145344,michaelv,password,"[55, 56, 57]"
+620,Ryan Good,728-949-2856,manager,St. Paul,133646,ryang,password,"[58, 59, 60]"
+621,Kenneth Mcconnell,2093938743,manager,Hartford,142308,kennethm,password,"[61, 62, 63]"
+622,Brian Long,(203)990-5728,manager,Hartford,125236,brianl,password,"[64, 65, 66]"
+623,Matthew Howard,404-911-2351,manager,St. Paul,131709,matthewh,password,"[67, 68, 69]"
+624,Shelby Wright,5543270636,manager,Hartford,126181,shelbyw,password,"[70, 71, 72]"
+625,Timothy Anderson,269-236-3600,manager,Hartford,137332,timothya,password,"[73, 74, 75]"
+626,Julie Atkinson,212-307-3867,manager,Hartford,126721,juliea,password,"[76, 77, 78]"
+627,Laura Clark,001-636-525-6207,manager,Hartford,134660,laurac,password,"[79, 80, 81]"
+628,Katherine Wilson,+1-683-392-6041,manager,Hartford,130099,katherinew,password,"[82, 83, 84]"
+629,Becky Mullen,(982)554-2143,manager,St. Paul,145574,beckym,password,"[85, 86, 87]"
+630,Ryan Donovan,603-904-4886,manager,Hartford,144453,ryand,password,"[88, 89, 90]"
+631,Christopher Horne,402-261-4095,manager,St. Paul,147283,christopherh,password,"[91, 92, 93]"
+632,Matthew Johnson,001-421-608-5782,manager,St. Paul,138136,matthewj,password,"[94, 95, 96]"
+633,Leslie Moss,715-415-3939,manager,St. Paul,136294,lesliem,password,"[97, 98, 99]"
+634,John Ward,205-515-9939,manager,Hartford,151500,johnw,password,"[100, 101, 102]"
+635,Bradley Ryan,8978120727,manager,Hartford,127662,bradleyr,password,"[103, 104, 105]"
+636,Tony Cardenas,977-318-2462,manager,Hartford,136484,tonyc,password,"[106, 107, 108]"
+637,Donna Cooke,9214483961,manager,St. Paul,147636,donnac,password,"[109, 110, 111]"
+638,Patrick Murphy,(566)742-2751,manager,St. Paul,144388,patrickm,password,"[112, 113, 114]"
+639,John Cabrera,(593)489-5425,manager,Hartford,140355,johnc,password,"[115, 116, 117]"
+640,Bobby Smith,264-927-1169,manager,Hartford,139579,bobbys,password,"[118, 119, 120]"
+641,Nathan Lara,7796169551,manager,St. Paul,122874,nathanl,password,"[121, 122, 123]"
+642,Kayla Shaffer,475.294.3137,manager,St. Paul,124504,kaylas,password,"[124, 125, 126]"
+643,Timothy Harrison,+1-211-845-0600,manager,Hartford,147360,timothyh,password,"[127, 128, 129]"
+644,Jason Flores,001-466-595-2234,manager,St. Paul,123961,jasonf,password,"[130, 131, 132]"
+645,Jennifer Barker,+1-594-241-6585,manager,St. Paul,123378,jenniferb,password,"[133, 134, 135]"
+646,Brandon Thompson,825-338-5888,manager,Hartford,143027,brandont,password,"[136, 137, 138]"
+647,John Dunn,347.787.8532,manager,St. Paul,120761,johnd,password,"[139, 140, 141]"
+648,Bradley Smith,001-989-808-1502,manager,Hartford,144616,bradleys,password,"[142, 143, 144]"
+649,Alisha Mitchell,+1-689-244-0521,manager,St. Paul,128417,alisham,password,"[145, 146, 147]"
+650,Frank Cooper,640-427-3379,manager,Hartford,151436,frankc,password,"[148, 149, 150]"
+651,Thomas Pierce,001-509-239-7034,manager,St. Paul,134764,thomasp,password,"[151, 152, 153]"
+652,Jeremy Elliott,563.913.9360,manager,Hartford,133872,jeremye,password,"[154, 155, 156]"
+653,Matthew Miller,833-969-3094,manager,Hartford,152208,matthewm,password,"[157, 158, 159]"
+654,Rebecca Hunt,+1-394-754-4788,manager,St. Paul,149383,rebeccah,password,"[160, 161, 162]"
+655,Mary Beard,(653)523-8511,manager,Hartford,148724,maryb,password,"[163, 164, 165]"
+656,Andre Davis,(929)231-8367,manager,Hartford,136592,andred,password,"[166, 167, 168]"
+657,Melissa Adkins,400.840.5309,manager,Hartford,153014,melissaa,password,"[169, 170, 171]"
+658,Douglas Green,942-973-5912,manager,St. Paul,128052,douglasg,password,"[172, 173, 174]"
+659,Michael Johnson,+1-770-328-1724,manager,Hartford,141235,michaelj,password,"[175, 176, 177]"
+660,Rachel Hernandez,295-626-0496,manager,Hartford,144040,rachelh,password,"[178, 179, 180]"
+661,John Robinson,+1-306-831-8969,manager,St. Paul,138761,johnr,password,"[181, 182, 183]"
+662,Kirsten Hernandez,+1-870-844-4575,manager,Hartford,129793,kirstenh,password,"[184, 185, 186]"
+663,Stephen Collier,5509942455,manager,Hartford,144711,stephenc,password,"[187, 188, 189]"
+664,Craig Chavez,+1-633-532-2839,manager,St. Paul,141242,craigc,password,"[190, 191, 192]"
+665,Susan Cruz,536.924.4682,manager,Hartford,147643,susanc,password,"[193, 194, 195]"
+666,Brianna Nolan,861-905-9368,manager,St. Paul,149597,briannan,password,"[196, 197, 198]"
+667,Gabriel Thomas,(393)651-3638,manager,St. Paul,134151,gabrielt,password,"[199, 200, 201]"
+668,Samantha Day,795.645.9692,manager,Hartford,133974,samanthad,password,"[202, 203, 204]"
+669,Adrian Torres,001-598-647-0167,manager,Hartford,125495,adriant,password,"[205, 206, 207]"
+670,Tasha Kramer,001-633-558-1455,manager,St. Paul,122707,tashak,password,"[208, 209, 210]"
+671,Kathleen Johnson,001-619-969-8972,manager,Hartford,148577,kathleenj,password,"[211, 212, 213]"
+672,William Riggs,+1-867-381-0670,manager,Hartford,148092,williamr,password,"[214, 215, 216]"
+673,Mario Gibbs,519.466.1375,manager,Hartford,130219,mariog,password,"[217, 218, 219]"
+674,Nicole Moore,4392070127,manager,St. Paul,138273,nicolem,password,"[220, 221, 222]"
+675,Sarah Bradley,001-678-706-8062,manager,St. Paul,144662,sarahb,password,"[223, 224, 225]"
+676,Kimberly Simon,+1-264-467-2074,manager,Hartford,135616,kimberlys,password,"[226, 227, 228]"
+677,John George,(799)848-3801,manager,Hartford,143573,johng,password,"[229, 230, 231]"
+678,Shawn Williams,209-286-1220,manager,St. Paul,127055,shawnw,password,"[232, 233, 234]"
+679,Katherine Woods,+1-843-310-0881,manager,Hartford,148638,katherinew,password,"[235, 236, 237]"
+680,Brittany Oneal,001-440-785-7514,manager,Hartford,132905,brittanyo,password,"[238, 239, 240]"
+681,Sarah Brown,917.297.1102,manager,Hartford,134403,sarahb,password,"[241, 242, 243]"
+682,Brian Smith,484-314-4020,manager,Hartford,134336,brians,password,"[244, 245, 246]"
+683,Connie Haley,+1-446-760-7877,manager,Hartford,136686,connieh,password,"[247, 248, 249]"
+684,James Calhoun,+1-460-234-3244,manager,St. Paul,133793,jamesc,password,"[250, 251, 252]"
+685,Ryan Espinoza,973-484-2678,manager,St. Paul,127494,ryane,password,"[253, 254, 255]"
+686,Anthony Beck,(698)562-3315,manager,Hartford,139847,anthonyb,password,"[256, 257, 258]"
+687,Monique Bryant,656-898-0753,manager,Hartford,148763,moniqueb,password,"[259, 260, 261]"
+688,Thomas Colon,(374)364-5147,manager,Hartford,135224,thomasc,password,"[262, 263, 264]"
+689,Katherine Davis,001-317-537-3045,manager,St. Paul,129660,katherined,password,"[265, 266, 267]"
+690,Walter Harding,329-256-3128,manager,St. Paul,132704,walterh,password,"[268, 269, 270]"
+691,Linda Lopez,(723)285-2836,manager,St. Paul,121035,lindal,password,"[271, 272, 273]"
+692,Megan Cooley,001-938-694-9809,manager,Hartford,152071,meganc,password,"[274, 275, 276]"
+693,Tammy Massey,502.287.1841,manager,Hartford,131197,tammym,password,"[277, 278, 279]"
+694,Nathan Sandoval,221-283-1127,manager,Hartford,126839,nathans,password,"[280, 281, 282]"
+695,Steven Edwards,(501)203-0875,manager,Hartford,129320,stevene,password,"[283, 284, 285]"
+696,Maria Gonzalez,351.651.9500,manager,St. Paul,148409,mariag,password,"[286, 287, 288]"
+697,Vicki Moran,367.499.3355,manager,Hartford,132957,vickim,password,"[289, 290, 291]"
+698,Charles Chavez,001-951-970-0800,manager,St. Paul,147247,charlesc,password,"[292, 293, 294]"
+699,Brandon Thomas,(330)528-8847,manager,Hartford,145924,brandont,password,"[295, 296, 297]"
+700,Devon Lee,+1-771-923-1802,manager,St. Paul,123817,devonl,password,"[298, 299, 300]"
+701,Darlene Collins,+1-356-229-5856,manager,Hartford,145203,darlenec,password,"[301, 302, 303]"
+702,James Ramirez,+1-384-458-1363,manager,St. Paul,142742,jamesr,password,"[304, 305, 306]"
+703,Caleb Baker,957.236.7679,manager,St. Paul,133225,calebb,password,"[307, 308, 309]"
+704,Joe Wyatt,(771)341-0989,manager,St. Paul,132292,joew,password,"[310, 311, 312]"
+705,Michele Ortiz,001-268-685-3808,manager,Hartford,151537,micheleo,password,"[313, 314, 315]"
+706,Eric Smith,+1-424-547-6592,manager,St. Paul,143443,erics,password,"[316, 317, 318]"
+707,Jasmine Hall,578-608-3605,manager,Hartford,141921,jasmineh,password,"[319, 320, 321]"
+708,Tara Jimenez,(311)561-0586,manager,Hartford,150223,taraj,password,"[322, 323, 324]"
+709,Mark Roberts,(796)966-3503,manager,St. Paul,133182,markr,password,"[325, 326, 327]"
+710,Samuel Thomas,(656)218-4657,manager,Hartford,135216,samuelt,password,"[328, 329, 330]"
+711,Lance Gibson,583-928-1194,manager,Hartford,149350,lanceg,password,"[331, 332, 333]"
+712,Michele Woods,001-736-406-1132,manager,St. Paul,138380,michelew,password,"[334, 335, 336]"
+713,Gabriel Webster,+1-448-680-3176,manager,Hartford,138252,gabrielw,password,"[337, 338, 339]"
+714,Lisa James,(506)631-6314,manager,Hartford,130034,lisaj,password,"[340, 341, 342]"
+715,Michelle Gomez,326.586.2158,manager,St. Paul,131204,michelleg,password,"[343, 344, 345]"
+716,Nicole Walter,(873)832-2823,manager,St. Paul,140878,nicolew,password,"[346, 347, 348]"
+717,Candice Russell,(784)726-1427,manager,Hartford,132723,candicer,password,"[349, 350, 351]"
+718,Nicholas Lucas,+1-227-550-4067,manager,St. Paul,145361,nicholasl,password,"[352, 353, 354]"
+719,Joel Suarez,(547)970-7509,manager,Hartford,149656,joels,password,"[355, 356, 357]"
+720,Harry Cook,621-630-8880,manager,St. Paul,144786,harryc,password,"[358, 359, 360]"
+721,Yvette Lowe,869.951.5806,manager,St. Paul,146422,yvettel,password,"[361, 362, 363]"
+722,Carl Perry,+1-719-293-3717,manager,St. Paul,145855,carlp,password,"[364, 365, 366]"
+723,Peter Waters,664-819-5656,manager,St. Paul,130512,peterw,password,"[367, 368, 369]"
+724,Kevin Delgado,001-789-582-3554,manager,St. Paul,145552,kevind,password,"[370, 371, 372]"
+725,Virginia Wright,001-609-918-5286,manager,Hartford,142411,virginiaw,password,"[373, 374, 375]"
+726,Samantha Castillo,(717)821-1830,manager,St. Paul,147326,samanthac,password,"[376, 377, 378]"
+727,Tracy Clark,(927)758-3806,manager,Hartford,125847,tracyc,password,"[379, 380, 381]"
+728,Larry Smith,+1-429-551-9246,manager,St. Paul,147648,larrys,password,"[382, 383, 384]"
+729,Melvin Hansen,(864)506-9524,manager,Hartford,143700,melvinh,password,"[385, 386, 387]"
+730,Jason James,801.233.3092,manager,Hartford,135775,jasonj,password,"[388, 389, 390]"
+731,Michelle Conley,+1-819-711-5766,manager,Hartford,136798,michellec,password,"[391, 392, 393]"
+732,Lauren Carney,622-938-6925,manager,St. Paul,148930,laurenc,password,"[394, 395, 396]"
+733,Elizabeth Robertson,777.567.0687,manager,Hartford,139904,elizabethr,password,"[397, 398, 399]"
+734,Daniel Lin,+1-460-686-6936,manager,Hartford,146306,daniell,password,"[400, 401, 402]"
+735,Cindy Adams,9916180974,manager,St. Paul,123077,cindya,password,"[403, 404, 405]"
+736,Darryl Bell,001-873-291-7619,manager,St. Paul,128815,darrylb,password,"[406, 407, 408]"
+737,Jean Conrad,577-929-2650,manager,St. Paul,126755,jeanc,password,"[409, 410, 411]"
+738,Donna Morris,576-323-0650,manager,St. Paul,139820,donnam,password,"[412, 413, 414]"
+739,Carolyn Stephens,830-734-6728,manager,St. Paul,142294,carolyns,password,"[415, 416, 417]"
+740,Joel Vargas,879.457.3863,manager,St. Paul,140544,joelv,password,"[418, 419, 420]"
+741,Stephen Bradley,915-928-5287,manager,Hartford,145664,stephenb,password,"[421, 422, 423]"
+742,Monique Murray,371-664-5450,manager,Hartford,149994,moniquem,password,"[424, 425, 426]"
+743,Edward Valencia,438-813-0384,manager,Hartford,125668,edwardv,password,"[427, 428, 429]"
+744,Rachel Marquez,5243131448,manager,Hartford,150154,rachelm,password,"[430, 431, 432]"
+745,Denise Acosta,652.739.6837,manager,Hartford,149815,denisea,password,"[433, 434, 435]"
+746,Janet Riggs,501.846.4007,manager,Hartford,136872,janetr,password,"[436, 437, 438]"
+747,Rebecca Smith,001-963-340-2912,manager,St. Paul,146105,rebeccas,password,"[439, 440, 441]"
+748,Charles Edwards,832-201-1271,manager,Hartford,152115,charlese,password,"[442, 443, 444]"
+749,Melanie Johnson,(886)366-4035,manager,Hartford,128265,melaniej,password,"[445, 446, 447]"
+750,Lucas Brooks,(849)375-2150,manager,St. Paul,120051,lucasb,password,"[448, 449, 450]"
+751,Jessica Gallagher,(334)359-3294,manager,Hartford,144790,jessicag,password,"[451, 452, 453]"
+752,Sarah Molina,835.630.2519,manager,Hartford,132398,sarahm,password,"[454, 455, 456]"
+753,Calvin Parsons,001-288-665-6137,manager,St. Paul,122184,calvinp,password,"[457, 458, 459]"
+754,Michael Velasquez,819.689.8693,manager,St. Paul,129632,michaelv,password,"[460, 461, 462]"
+755,Michael Greer,(488)693-6670,manager,Hartford,131490,michaelg,password,"[463, 464, 465]"
+756,Raymond Cunningham,001-333-372-6864,manager,St. Paul,148612,raymondc,password,"[466, 467, 468]"
+757,Melissa Bass,2392341837,manager,Hartford,136642,melissab,password,"[469, 470, 471]"
+758,Lauren Crawford,+1-678-225-9936,manager,Hartford,128945,laurenc,password,"[472, 473, 474]"
+759,Joe Glover,9044786259,manager,Hartford,132870,joeg,password,"[475, 476, 477]"
+760,Tina Roberts,001-851-722-1705,manager,Hartford,144973,tinar,password,"[478, 479, 480]"
+761,Michael Whitney,(504)278-5633,manager,St. Paul,146669,michaelw,password,"[481, 482, 483]"
+762,Christopher Wright,7125552125,manager,St. Paul,141819,christopherw,password,"[484, 485, 486]"
+763,Matthew Simpson,9933809723,manager,St. Paul,148982,matthews,password,"[487, 488, 489]"
+764,Ashley Silva,9375184465,manager,Hartford,132173,ashleys,password,"[490, 491, 492]"
+765,George Perry,001-331-853-5156,manager,St. Paul,123813,georgep,password,"[493, 494, 495]"
+766,Noah Griffin,528.211.6287,manager,Hartford,153492,noahg,password,"[496, 497, 498]"
+767,Darin Christensen,9939336614,manager,St. Paul,125241,darinc,password,"[499, 500, 501]"
+768,Carolyn Gill,(780)852-5791,manager,St. Paul,149866,carolyng,password,"[502, 503, 504]"
+769,Peter Fox,845-254-4285,manager,Hartford,149595,peterf,password,"[505, 506, 507]"
+770,Noah Powers,419.505.9172,manager,Hartford,145782,noahp,password,"[508, 509, 510]"
+771,Rita Valentine,735.937.1000,manager,St. Paul,120978,ritav,password,"[511, 512, 513]"
+772,Caitlin Adams,577-752-1942,manager,Hartford,153171,caitlina,password,"[514, 515, 516]"
+773,Lauren Sullivan,+1-285-789-0996,manager,Hartford,129587,laurens,password,"[517, 518, 519]"
+774,Jonathan Lowe,721.702.9027,manager,Hartford,134921,jonathanl,password,"[520, 521, 522]"
+775,Dawn Jones,943-271-8236,manager,St. Paul,136170,dawnj,password,"[523, 524, 525]"
+776,Michael Johnston,+1-607-272-1619,manager,Hartford,136461,michaelj,password,"[526, 527, 528]"
+777,Crystal Campbell,447.223.7828,manager,Hartford,148838,crystalc,password,"[529, 530, 531]"
+778,Caroline Vega,809.897.0830,manager,Hartford,141733,carolinev,password,"[532, 533, 534]"
+779,Brent Woodard,(739)248-4742,manager,St. Paul,143495,brentw,password,"[535, 536, 537]"
+780,Christine Castro,8083986970,manager,St. Paul,145887,christinec,password,"[538, 539, 540]"
+781,Richard Frazier,+1-700-870-0038,manager,St. Paul,124746,richardf,password,"[541, 542, 543]"
+782,Angela Thompson,+1-921-581-3556,manager,Hartford,144933,angelat,password,"[544, 545, 546]"
+783,Amanda Golden,+1-866-303-3824,manager,Hartford,147770,amandag,password,"[547, 548, 549]"
+784,Michael Brown,(880)913-0691,manager,St. Paul,147798,michaelb,password,"[550, 551, 552]"
+785,Elizabeth Miller,290.218.0484,manager,St. Paul,135597,elizabethm,password,"[553, 554, 555]"
+786,Shane Richmond,3817372887,manager,Hartford,151463,shaner,password,"[556, 557, 558]"
+787,Jessica Shaffer,+1-736-575-6347,manager,St. Paul,140008,jessicas,password,"[559, 560, 561]"
+788,Courtney Guzman,776.304.3379,manager,St. Paul,135895,courtneyg,password,"[562, 563, 564]"
+789,Eric Becker,834-840-0709,manager,Hartford,136699,ericb,password,"[565, 566, 567]"
+790,Robert Dennis,001-751-783-9923,manager,Hartford,145954,robertd,password,"[568, 569, 570]"
+791,Robert Gomez,001-616-828-3648,manager,St. Paul,128993,robertg,password,"[571, 572, 573]"
+792,Dylan Foster,279-755-6050,manager,Hartford,125386,dylanf,password,"[574, 575, 576]"
+793,Jason Price,(372)206-4961,manager,St. Paul,148689,jasonp,password,"[577, 578, 579]"
+794,Christina Klein,(277)294-2922,manager,St. Paul,136917,christinak,password,"[580, 581, 582]"
+795,Crystal Freeman,948.950.9559,manager,St. Paul,147482,crystalf,password,"[583, 584, 585]"
+796,Brett Wood,+1-943-831-3165,manager,St. Paul,126209,brettw,password,"[586, 587, 588]"
+797,Stephanie Estes,619-292-8874,manager,Hartford,148649,stephaniee,password,"[589, 590, 591]"
+798,Sierra Perez,001-406-919-9412,manager,Hartford,146864,sierrap,password,"[592, 593, 594]"
+799,Mark David,(404)666-7087,manager,St. Paul,126147,markd,password,"[595, 596, 597]"
+800,Russell Richardson,216-786-5423,manager,St. Paul,128441,russellr,password,"[598, 599, 600]"
+801,Vicki Wright,(241)363-3256,hr,St. Paul,95679,vickiw,password,[]
+802,Michael Huber,653-742-3191,hr,St. Paul,113449,michaelh,password,[]
+803,Taylor Reid,+1-848-453-6055,hr,Hartford,101269,taylorr,password,[]
+804,Lacey Jennings,(928)217-1248,hr,St. Paul,96468,laceyj,password,[]
+805,Rebecca Duke,746.504.8376,hr,Hartford,106926,rebeccad,password,[]
+806,Wesley Oconnell,(672)591-2557,hr,St. Paul,92365,wesleyo,password,[]
+807,Susan Nelson,(375)585-1846,hr,St. Paul,90591,susann,password,[]
+808,Ricardo Edwards,405-337-7866,hr,St. Paul,99113,ricardoe,password,[]
+809,John Soto,483-712-3521,hr,Hartford,101459,johns,password,[]
+810,Cameron Adams,+1-928-396-2996,hr,Hartford,98139,camerona,password,[]
+811,Heather Gutierrez,001-350-958-0759,hr,Hartford,115677,heatherg,password,[]
+812,Amanda Ferguson,001-608-885-7363,hr,St. Paul,108064,amandaf,password,[]
+813,Jessica Ortega,674.676.2441,hr,St. Paul,113895,jessicao,password,[]
+814,Jamie Underwood,208.622.9653,hr,St. Paul,90673,jamieu,password,[]
+815,Corey Sanders,(709)994-6742,hr,Hartford,97023,coreys,password,[]
+816,Joan Ellis,001-968-953-4148,hr,Hartford,101903,joane,password,[]
+817,Kathleen Manning,+1-230-433-9307,hr,Hartford,108596,kathleenm,password,[]
+818,Ann Garcia,727.639.9060,hr,St. Paul,98487,anng,password,[]
+819,Cheryl Wheeler,792-327-0639,hr,Hartford,118300,cherylw,password,[]
+820,William Anderson,001-432-668-2913,hr,St. Paul,102039,williama,password,[]
+821,Donna Black,001-281-753-9397,hr,St. Paul,94160,donnab,password,[]
+822,Jason Payne,9349871969,hr,St. Paul,104976,jasonp,password,[]
+823,Tracey Lewis,+1-671-346-8149,hr,St. Paul,94521,traceyl,password,[]
+824,Robert Hill,+1-428-629-2511,hr,Hartford,117270,roberth,password,[]
+825,Samantha Shields,2402106377,hr,Hartford,118472,samanthas,password,[]
+826,Thomas Rodriguez,423-617-4130,hr,St. Paul,96801,thomasr,password,[]
+827,Meagan Olson,+1-251-671-7274,hr,St. Paul,102364,meagano,password,[]
+828,Joshua Clark,708.809.3574,hr,Hartford,116480,joshuac,password,[]
+829,Charles King,3142835821,hr,Hartford,97742,charlesk,password,[]
+830,Stacy Wilson,(286)389-5993,hr,Hartford,104078,stacyw,password,[]
+831,Tina Valdez,(762)479-9409,hr,Hartford,118532,tinav,password,[]
+832,Benjamin White,+1-430-679-8341,hr,St. Paul,96402,benjaminw,password,[]
+833,Nathaniel Howard,934.863.5362,hr,St. Paul,113792,nathanielh,password,[]
+834,Amanda Ford,(603)941-3548,hr,St. Paul,112562,amandaf,password,[]
+835,Raymond Mcgee,757.644.5572,hr,St. Paul,91395,raymondm,password,[]
+836,Rebecca Wood,001-929-820-1479,hr,Hartford,113284,rebeccaw,password,[]
+837,James Jennings,236-397-5651,hr,Hartford,116005,jamesj,password,[]
+838,Denise Phillips,001-559-553-7142,hr,St. Paul,109960,denisep,password,[]
+839,Jennifer Ross,001-205-381-0930,hr,St. Paul,109354,jenniferr,password,[]
+840,Evelyn Carter,616-337-4135,hr,Hartford,97624,evelync,password,[]
+841,Chris Sandoval,687-906-3967,hr,St. Paul,92810,chriss,password,[]
+842,Jeffrey Valdez,(410)248-3047,hr,St. Paul,102752,jeffreyv,password,[]
+843,Christopher Matthews,(238)699-9799,hr,St. Paul,102752,christopherm,password,[]
+844,Glenn Douglas,001-726-570-8559,hr,St. Paul,91825,glennd,password,[]
+845,Sheryl Russo,+1-366-538-0085,hr,St. Paul,99610,sherylr,password,[]
+846,Sean Smith,(365)824-1542,hr,Hartford,114850,seans,password,[]
+847,Becky Mccoy,(470)767-0822,hr,Hartford,110613,beckym,password,[]
+848,Nathaniel Carroll,686-764-6021,hr,St. Paul,94489,nathanielc,password,[]
+849,Jessica Adkins,+1-445-684-4608,hr,St. Paul,92255,jessicaa,password,[]
+850,Joshua Burgess,(508)418-9122,hr,Hartford,109453,joshuab,password,[]
+851,Laura Torres,725-864-7883,hr,Hartford,101164,laurat,password,[]
+852,Donald Johnson,+1-239-829-8852,hr,St. Paul,109195,donaldj,password,[]
+853,Alisha Lewis,+1-510-746-5788,hr,Hartford,107317,alishal,password,[]
+854,Debra Wood,912.559.0623,hr,St. Paul,95965,debraw,password,[]
+855,Pamela Fleming,(817)434-4783,hr,Hartford,113109,pamelaf,password,[]
+856,Scott Green,+1-995-838-3218,hr,St. Paul,97528,scottg,password,[]
+857,Stephen Becker,+1-394-901-3831,hr,St. Paul,114008,stephenb,password,[]
+858,Michelle Davis,(583)800-8910,hr,St. Paul,92996,michelled,password,[]
+859,Kathy Kim,(977)867-5125,hr,St. Paul,105563,kathyk,password,[]
+860,Tony Morton,001-946-958-7386,hr,Hartford,113935,tonym,password,[]
+861,John Parker,001-726-245-4632,hr,Hartford,100797,johnp,password,[]
+862,Angela Spencer,484.748.4120,hr,Hartford,100657,angelas,password,[]
+863,Sean Owens,(296)767-3392,hr,St. Paul,96365,seano,password,[]
+864,Brandon Allen,+1-536-644-0358,hr,St. Paul,114899,brandona,password,[]
+865,Jeffrey Fowler,(535)325-0221,hr,Hartford,106564,jeffreyf,password,[]
+866,James Barrett,+1-650-401-2384,hr,St. Paul,91373,jamesb,password,[]
+867,Nicole Lowe,325.276.3505,hr,St. Paul,112745,nicolel,password,[]
+868,Jason Bauer,360-758-0833,hr,St. Paul,103047,jasonb,password,[]
+869,Arthur Rogers,561-641-6653,hr,St. Paul,92693,arthurr,password,[]
+870,Dana Porter,212-998-2228,hr,St. Paul,113478,danap,password,[]
+871,Samuel Espinoza,787-474-2354,hr,Hartford,102649,samuele,password,[]
+872,John Lewis,(387)217-6535,hr,Hartford,113039,johnl,password,[]
+873,Paul Richardson,551-937-4553,hr,St. Paul,105365,paulr,password,[]
+874,Stacey Johnson,001-473-646-1010,hr,St. Paul,92470,staceyj,password,[]
+875,Latoya Hansen,466-377-5636,hr,St. Paul,108388,latoyah,password,[]
+876,Jamie Reed,(261)647-4849,hr,Hartford,103699,jamier,password,[]
+877,Michelle Rose,589.264.5707,hr,Hartford,110380,micheller,password,[]
+878,Elizabeth Walker,001-420-321-4651,hr,St. Paul,112615,elizabethw,password,[]
+879,Brittany Cruz,634.617.4034,hr,St. Paul,96909,brittanyc,password,[]
+880,Brian Torres,680.351.9062,hr,Hartford,100519,briant,password,[]
+881,Brandon Thomas,001-462-422-6405,hr,Hartford,97796,brandont,password,[]
+882,Kevin Pena,+1-287-318-6039,hr,St. Paul,104318,kevinp,password,[]
+883,Savannah Adams,267-366-3881,hr,Hartford,103075,savannaha,password,[]
+884,Jennifer Harvey,(643)853-5696,hr,St. Paul,95260,jenniferh,password,[]
+885,Brittney Wagner,+1-283-931-5821,hr,Hartford,111183,brittneyw,password,[]
+886,Susan Stevens,348.262.6029,hr,St. Paul,103324,susans,password,[]
+887,Nicole Hubbard,+1-270-609-2827,hr,St. Paul,112474,nicoleh,password,[]
+888,Nicole Butler,340-630-1093,hr,St. Paul,112515,nicoleb,password,[]
+889,Diana Roberson,+1-508-373-0211,hr,St. Paul,110186,dianar,password,[]
+890,Alexandra Frazier,5768357301,hr,Hartford,95182,alexandraf,password,[]
+891,Zachary Clarke,(214)393-1186,hr,St. Paul,110368,zacharyc,password,[]
+892,Sandra Austin,316.301.7729,hr,Hartford,110481,sandraa,password,[]
+893,Caleb Smith,+1-802-322-4756,hr,Hartford,101319,calebs,password,[]
+894,Gregory Williams,001-551-876-1409,hr,Hartford,116786,gregoryw,password,[]
+895,Shelley Newton,001-651-550-6238,hr,Hartford,107419,shelleyn,password,[]
+896,Michael Dickson,(259)581-2632,hr,Hartford,101721,michaeld,password,[]
+897,David Ramsey,001-861-323-2471,hr,St. Paul,107792,davidr,password,[]
+898,Casey Serrano,4299879604,hr,Hartford,114253,caseys,password,[]
+899,Aaron Rogers,432.282.1505,hr,Hartford,118396,aaronr,password,[]
+900,Tommy Welch,547-912-7360,hr,Hartford,108379,tommyw,password,[]
+901,James Davidson,+1-520-671-7557,hr,Hartford,113317,jamesd,password,[]
+902,Patricia Wright,001-619-608-2579,hr,Hartford,101787,patriciaw,password,[]
+903,Jessica Scott,(982)660-7006,hr,St. Paul,98120,jessicas,password,[]
+904,Scott Campbell,5232025001,hr,St. Paul,103931,scottc,password,[]
+905,Robert Gill,(326)858-9266,hr,St. Paul,109728,robertg,password,[]
+906,Tara White,604-713-7332,hr,St. Paul,110217,taraw,password,[]
+907,Bonnie Thomas,534.391.7063,hr,St. Paul,113780,bonniet,password,[]
+908,Caroline Sanders,416.578.7121,hr,St. Paul,93608,carolines,password,[]
+909,Samantha Wilson,(314)284-7241,hr,St. Paul,113045,samanthaw,password,[]
+910,Adam Morgan,(393)646-7249,hr,St. Paul,97425,adamm,password,[]
+911,Lori Sloan,6648755652,hr,St. Paul,90895,loris,password,[]
+912,Michelle Bennett,700-827-7816,hr,Hartford,102233,michelleb,password,[]
+913,Gloria Jones,439-392-5665,hr,St. Paul,103781,gloriaj,password,[]
+914,Jennifer Cabrera,+1-246-615-7837,hr,St. Paul,99358,jenniferc,password,[]
+915,April Sanders,001-826-951-2152,hr,St. Paul,92920,aprils,password,[]
+916,Karen Fox,(882)396-9680,hr,St. Paul,98631,karenf,password,[]
+917,Carolyn Thomas,001-298-606-1285,hr,St. Paul,103150,carolynt,password,[]
+918,Jonathan Nelson,852.548.7445,hr,St. Paul,104972,jonathann,password,[]
+919,Rita Hughes,308.253.2451,hr,Hartford,100221,ritah,password,[]
+920,Erin Henry,001-780-850-5023,hr,Hartford,102417,erinh,password,[]
+921,Ariana Moses,(667)728-5664,hr,Hartford,96642,arianam,password,[]
+922,David Snyder,001-493-763-0239,hr,St. Paul,113336,davids,password,[]
+923,Michael Alvarado,(580)381-8302,hr,St. Paul,114982,michaela,password,[]
+924,Jennifer Powell,+1-367-882-2971,hr,Hartford,95662,jenniferp,password,[]
+925,Suzanne Rodriguez,367-961-3948,hr,Hartford,110325,suzanner,password,[]
+926,Virginia Garcia,(364)267-1544,hr,Hartford,115653,virginiag,password,[]
+927,Pamela Jones,(683)244-2477,hr,St. Paul,98202,pamelaj,password,[]
+928,Shannon Graves,5145212731,hr,St. Paul,91132,shannong,password,[]
+929,Kenneth Wilson,786-660-7793,hr,St. Paul,94366,kennethw,password,[]
+930,Kevin Larson,714.230.0669,hr,St. Paul,105417,kevinl,password,[]
+931,Pamela Graves,(461)965-9863,hr,Hartford,118544,pamelag,password,[]
+932,Brandon Lynn,+1-868-967-5320,hr,Hartford,104883,brandonl,password,[]
+933,Emily Moran,617.876.9355,hr,Hartford,103737,emilym,password,[]
+934,Dawn Barron,8116160242,hr,Hartford,98601,dawnb,password,[]
+935,Sabrina Reyes,(390)344-8489,hr,St. Paul,99907,sabrinar,password,[]
+936,Randy Combs,001-325-216-1661,hr,Hartford,108489,randyc,password,[]
+937,Michael Soto,5362331145,hr,St. Paul,98540,michaels,password,[]
+938,Melissa Chen,262-869-0935,hr,St. Paul,114308,melissac,password,[]
+939,Rachel Trevino,423-399-6970,hr,St. Paul,90140,rachelt,password,[]
+940,Jason White,001-467-416-9330,hr,Hartford,101895,jasonw,password,[]
+941,Calvin Brown,544-834-7929,hr,St. Paul,109893,calvinb,password,[]
+942,Jeffrey Graham,+1-691-869-5914,hr,Hartford,110200,jeffreyg,password,[]
+943,William Shaw,848-982-1358,hr,Hartford,117248,williams,password,[]
+944,Julia Weaver,001-691-275-9314,hr,St. Paul,100873,juliaw,password,[]
+945,Melinda Wagner,001-504-614-2835,hr,St. Paul,98280,melindaw,password,[]
+946,John Mejia,3982900731,hr,Hartford,107973,johnm,password,[]
+947,Sharon Lynch,001-881-249-2545,hr,Hartford,111518,sharonl,password,[]
+948,William Farrell,+1-878-868-3386,hr,St. Paul,106130,williamf,password,[]
+949,Madison Smith,+1-393-751-8105,hr,Hartford,108391,madisons,password,[]
+950,Daniel Williams,879-601-9326,hr,St. Paul,109309,danielw,password,[]
+951,Christina Morales,951-700-8002,hr,St. Paul,90610,christinam,password,[]
+952,Ronald Ramirez,+1-264-311-8402,hr,Hartford,115436,ronaldr,password,[]
+953,Nicholas Chen,+1-377-428-4287,hr,Hartford,109213,nicholasc,password,[]
+954,Donald Herrera,+1-814-576-6012,hr,Hartford,113960,donaldh,password,[]
+955,Andrew Thompson,(614)996-1641,hr,St. Paul,97633,andrewt,password,[]
+956,Donna Harris,(208)228-3998,hr,Hartford,104491,donnah,password,[]
+957,Elijah Sanford,001-850-494-5942,hr,St. Paul,92367,elijahs,password,[]
+958,Theresa Williams,448-480-8049,hr,St. Paul,105991,theresaw,password,[]
+959,Melanie Martin,2968169359,hr,St. Paul,113419,melaniem,password,[]
+960,Jennifer Kramer,502-205-5485,hr,Hartford,97207,jenniferk,password,[]
+961,Timothy Washington,342-809-8593,hr,Hartford,104062,timothyw,password,[]
+962,Joshua Byrd,6732764496,hr,St. Paul,106749,joshuab,password,[]
+963,Bruce Gutierrez,+1-512-354-2728,hr,Hartford,102954,bruceg,password,[]
+964,Scott Cooper,001-467-267-3471,hr,St. Paul,113145,scottc,password,[]
+965,Charles Mendoza,+1-358-545-9872,hr,St. Paul,103613,charlesm,password,[]
+966,Michael Moore,863.847.9274,hr,Hartford,112587,michaelm,password,[]
+967,Corey Ross,(945)389-0571,hr,Hartford,109820,coreyr,password,[]
+968,William Thompson,556.288.9785,hr,St. Paul,107010,williamt,password,[]
+969,Patricia Walker,727.816.1396,hr,St. Paul,103688,patriciaw,password,[]
+970,Norma Hamilton,+1-281-317-6556,hr,Hartford,105639,normah,password,[]
+971,David Roberts,+1-877-272-7561,hr,Hartford,98867,davidr,password,[]
+972,Juan Collins,6776305040,hr,Hartford,106761,juanc,password,[]
+973,Ashley Medina,(732)580-6956,hr,Hartford,107400,ashleym,password,[]
+974,Kelly Robinson,(250)860-1653,hr,St. Paul,96254,kellyr,password,[]
+975,Beverly Stevens,5522760255,hr,St. Paul,91414,beverlys,password,[]
+976,Rachel Moore,789-383-9191,hr,Hartford,114934,rachelm,password,[]
+977,Thomas Cantrell,927-784-9612,hr,St. Paul,105554,thomasc,password,[]
+978,Sarah Brown,(683)552-9680,hr,Hartford,110414,sarahb,password,[]
+979,Kelly Reid,(633)633-3728,hr,St. Paul,104120,kellyr,password,[]
+980,Jonathan King,4652040436,hr,Hartford,117207,jonathank,password,[]
+981,Mike Gonzalez,769.599.6187,hr,St. Paul,114126,mikeg,password,[]
+982,Joe Spencer,274.350.1043,hr,Hartford,107753,joes,password,[]
+983,Elizabeth Cooley,001-815-745-3352,hr,Hartford,117831,elizabethc,password,[]
+984,Patricia Zamora,001-861-256-3437,hr,St. Paul,96760,patriciaz,password,[]
+985,Joseph Elliott,+1-682-295-5658,hr,Hartford,107839,josephe,password,[]
+986,Shawn Bryant,+1-923-503-9894,hr,Hartford,112291,shawnb,password,[]
+987,Kristi Brown,001-606-299-1707,hr,St. Paul,99971,kristib,password,[]
+988,Erin Barnes,+1-551-373-0543,hr,Hartford,106114,erinb,password,[]
+989,Michael Guerrero,001-615-802-0119,hr,St. Paul,98136,michaelg,password,[]
+990,Cory Caldwell,630.557.5733,hr,St. Paul,91199,coryc,password,[]
+991,Michael Thomas,(850)845-9156,hr,Hartford,108033,michaelt,password,[]
+992,Miranda Shelton,300-793-2265,hr,St. Paul,103966,mirandas,password,[]
+993,Jorge Elliott,405.783.1635,hr,Hartford,117475,jorgee,password,[]
+994,Amanda Livingston,001-278-848-3555,hr,Hartford,105581,amandal,password,[]
+995,Mark Rodriguez,+1-661-379-4452,hr,St. Paul,107852,markr,password,[]
+996,Nathan Young,225-289-0352,hr,Hartford,103556,nathany,password,[]
+997,Andrea Gates,+1-745-486-4002,hr,Hartford,97584,andreag,password,[]
+998,Chelsea Wood,+1-490-774-3130,hr,Hartford,97120,chelseaw,password,[]
+999,Melanie Ramirez,553.242.8696,hr,St. Paul,100231,melanier,password,[]
+1000,Jose Willis,001-985-618-9586,hr,St. Paul,109481,josew,password,[]

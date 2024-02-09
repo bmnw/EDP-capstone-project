@@ -29,6 +29,23 @@ app.get("/profile/:id", (req, res) => {
   });
 });
 
+app.get("/profile/:id/direct_reports", (req, res) => {
+  mongo_dao.findEmployeeById(req.params.id, (employee) => {
+    if (!employee) {
+      res.status(404).end();
+    } else {
+      direct_reports_ids = JSON.parse(employee.direct_reports);
+      mongo_dao.findEmployeesByIds(direct_reports_ids, (employees) => {
+        if (!employees) {
+          res.status(404).end();
+        } else {
+          res.send(employees);
+        }
+      });
+    }
+  });
+});
+
 app.get("/search", (req, res) => {
   mongo_dao.findFirst15Employee((employee) => {
     if (!employee) {
