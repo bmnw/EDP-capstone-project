@@ -31,11 +31,11 @@ function Login({ userData, setUserData }) {
       container
       spacing={2}
       direction="column"
-      alignItems="center"
-      justifyContent="center"
+      alignItems="left"
+      justifyContent="left"
     >
       <Grid item>
-        <Typography variant='h6'>Username</Typography>
+        <Typography variant="h6">Username</Typography>
       </Grid>
       <Grid item>
         <TextField
@@ -46,10 +46,11 @@ function Login({ userData, setUserData }) {
         />
       </Grid>
       <Grid item>
-        <Typography variant='h6'>Password</Typography>
+        <Typography variant="h6">Password</Typography>
       </Grid>
       <Grid item>
         <TextField
+          type="password"
           label="Enter password"
           variant="filled"
           value={password}

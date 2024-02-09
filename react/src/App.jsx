@@ -11,7 +11,9 @@ function App() {
   const [userData, setUserData] = useState({});
   return (
     <Container>
-      <Typography variant='h4'>Searchable Enterprise Directory</Typography>
+      <Typography sx={{ marginBottom: 1 }} variant="h4">
+        Searchable Enterprise Directory
+      </Typography>
       <BrowserRouter>
         <Routes>
           <Route path="/search" element={<Search userData={userData} />} />

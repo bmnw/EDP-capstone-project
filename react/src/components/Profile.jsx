@@ -1,6 +1,13 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
+import TextField from "@mui/material/TextField";
+import Button from "@mui/material/Button";
+import Grid from "@mui/material/Grid";
+import Typography from "@mui/material/Typography";
+import Box from "@mui/material/Box";
+import List from "@mui/material/List";
+import ListItem from "@mui/material/ListItem";
 
 const url = new URL("http://localhost:4000/profile/");
 
@@ -52,9 +59,17 @@ function Profile({ userData, setUserData }) {
     getReports();
   }
   return (
-    <div className="page">
-      <button onClick={backToSearch}>Back to Search</button>
-      Info
+    <Box>
+      <Grid container direction="row" alignItems="left" justifyContent="left">
+        <Button onClick={backToSearch} variant="contained" color="primary">
+          Back
+        </Button>
+      </Grid>
+
+      <Typography sx={{marginTop: 3}} variant='h6'>Employee Information</Typography>
+
+      
+
       <ul>
         <li>Name: {profile.name}</li>
         <li>Phone Number: {profile.phone_number}</li>
@@ -82,7 +97,7 @@ function Profile({ userData, setUserData }) {
         </ul>
       )}
       {userData.id === profile.id && <button onClick={logOut}>Logout</button>}
-    </div>
+    </Box>
   );
 }
 export default Profile;
