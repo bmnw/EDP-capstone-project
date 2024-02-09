@@ -4,12 +4,16 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Search from "./components/Search";
 import Login from "./components/Login";
 import Profile from "./components/Profile";
+import Container from "@mui/material/Container";
+import Typography from "@mui/material/Typography";
 
 function App() {
   const [userData, setUserData] = useState({});
   return (
-    <div>
-      <h1>Searchable Enterprise Directory</h1>
+    <Container>
+      <Typography sx={{ marginBottom: 1 }} variant="h4">
+        Searchable Enterprise Directory
+      </Typography>
       <BrowserRouter>
         <Routes>
           <Route path="/search" element={<Search userData={userData} />} />
@@ -24,7 +28,7 @@ function App() {
           <Route path="/" element={<Login />} />
         </Routes>
       </BrowserRouter>
-    </div>
+    </Container>
   );
 }
 
