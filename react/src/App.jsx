@@ -4,6 +4,7 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Search from "./components/Search";
 import Login from "./components/Login";
 import Profile from "./components/Profile";
+import Prediction from "./components/Prediction";
 
 function App() {
   const [userData, setUserData] = useState({});
@@ -21,6 +22,7 @@ function App() {
             path="/login"
             element={<Login userData={userData} setUserData={setUserData} />}
           />
+          <Route path="/prediction" element={<Prediction />} />
           <Route path="/" element={<Login />} />
         </Routes>
       </BrowserRouter>

@@ -1,9 +1,12 @@
 const express = require("express");
+const bodyParser = require("body-parser");
 const app = express();
 const PORT = 4000;
 const mongo_dao = require("./mongo_dao");
+const { PythonShell } = require("python-shell");
 const cors = require("cors");
 app.use(cors());
+app.use(bodyParser.json());
 
 app.listen(PORT, () => {
   console.log(`Server is running http://localhost:${PORT}`);
@@ -63,5 +66,17 @@ app.get("/login/:username", (req, res) => {
     } else {
       res.send(employee);
     }
+  });
+});
+
+app.post("/prediction", (req, res) => {
+  const { input1, input2 } = req.body;
+  const options = {
+    mode: "text",
+    pythonOptions: ["-u"],
+    args: [input1, input2],
+  };
+  PythonShell.run("python/model.py", options).then((messages) => {
+    res.send(messages);
   });
 });
