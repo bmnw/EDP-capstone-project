@@ -14,6 +14,7 @@ import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import WorkIcon from "@mui/icons-material/Work";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
+import PaidIcon from "@mui/icons-material/Paid";
 
 const url = new URL("http://localhost:4000/profile/");
 
@@ -24,6 +25,17 @@ function Profile({ userData, setUserData }) {
   const reports_url = profile_url + "/direct_reports";
   const [profile, setProfile] = useState([]);
   const [reports, setReports] = useState([]);
+  const [isDirectReport, setIsDirectReport] = useState(false);
+
+  const searchDirectReports = () => {
+    for (let i = 0; i <= userData.direct_reports.length; i++) {
+      if (userData.direct_reports[i] === profile.id) {
+        setIsDirectReport(true);
+        return;
+      }
+    }
+    return;
+  };
 
   const getProfile = function async() {
     fetch(profile_url)
@@ -48,6 +60,8 @@ function Profile({ userData, setUserData }) {
   const logOut = () => {
     // clears userData
     setUserData({});
+    setProfile({});
+    setReports({});
     navigate("/login");
   };
 
@@ -59,11 +73,18 @@ function Profile({ userData, setUserData }) {
       getProfile();
       console.log("get from db");
     }
+    if (userData.direct_reports !== undefined) {
+      searchDirectReports();
+    }
   }, []);
 
   if (profile.direct_reports !== undefined) {
+    // searchDirectReports();
     getReports();
   }
+
+  
+
   return (
     <Box>
       <Grid container direction="row" alignItems="left" justifyContent="left">
@@ -107,6 +128,21 @@ function Profile({ userData, setUserData }) {
             <Typography>Office Location: {profile.location}</Typography>
           </ListItemText>
         </ListItem>
+        {userData.role === "hr" ||
+        (userData.role === "manager" &&
+          isDirectReport) ||
+        userData.id === profile.id ? (
+          <ListItem>
+            <ListItemIcon>
+              <PaidIcon />
+            </ListItemIcon>
+            <ListItemText>
+              <Typography>Salary: {profile.salary}</Typography>
+            </ListItemText>
+          </ListItem>
+        ) : (
+          <></>
+        )}
       </List>
 
       {reports.length > 0 && (
