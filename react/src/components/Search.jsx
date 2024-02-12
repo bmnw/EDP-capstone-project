@@ -32,6 +32,10 @@ function Search({ userData }) {
     navigate("/profile/" + userId);
   };
 
+  const navigateToPrediction = () => {
+    navigate("/prediction");
+  };
+
   const handleInputChange = (e) => {
     e.preventDefault();
     setSearchInput(e.target.value);
@@ -45,9 +49,18 @@ function Search({ userData }) {
     <Box>
       <Grid container direction="row" alignItems="right" justifyContent="right">
         <Button
+          onClick={() => navigateToPrediction()}
+          variant="contained"
+          color="secondary"
+        >
+          Salary Prediction
+        </Button>
+
+        <Button
           onClick={() => navigateToProfile(userData.id)}
           variant="contained"
           color="secondary"
+          sx={{ marginLeft: 1 }}
         >
           My Profile
         </Button>
@@ -83,12 +96,12 @@ function Search({ userData }) {
         {employees.map((employee) => {
           return (
             <>
-              <ListItem>
+              <ListItem key={employee.id}>
                 <ListItemIcon>
-                  <PersonIcon/>
+                  <PersonIcon />
                 </ListItemIcon>
                 <ListItemText>
-                  <Link key={employee.id} to={`/profile/${employee.id}`}>
+                  <Link to={`/profile/${employee.id}`}>
                     <Typography> {employee.name}</Typography>
                   </Link>
                 </ListItemText>

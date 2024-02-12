@@ -1,9 +1,12 @@
 import React from "react";
 import { useState, useEffect } from "react";
-
+import { useNavigate } from "react-router-dom";
+import Grid from "@mui/material/Grid";
+import Button from "@mui/material/Button";
 const url = new URL("http://localhost:4000/prediction");
 
 function Prediction() {
+  const navigate = useNavigate();
   const [prediction, setPrediction] = useState([]);
   const [input1, setInput1] = useState("Hartford");
   const [input2, setInput2] = useState("employee");
@@ -19,6 +22,10 @@ function Prediction() {
         setPrediction(data);
       });
   };
+  const backToSearch = () => {
+    navigate("/search");
+  };
+
   useEffect(() => {
     getPrediction();
   }, []);
@@ -32,6 +39,11 @@ function Prediction() {
   };
   return (
     <div className="page">
+      <Grid container direction="row" alignItems="right" justifyContent="right">
+        <Button onClick={backToSearch} variant="contained" color="secondary">
+          Back
+        </Button>
+      </Grid>
       <div>
         <label htmlFor="cities">Select a city:</label>
         <select id="cities" onChange={handleDropdownChangeLocation}>
