@@ -25,17 +25,6 @@ function Profile({ userData, setUserData }) {
   const reports_url = profile_url + "/direct_reports";
   const [profile, setProfile] = useState([]);
   const [reports, setReports] = useState([]);
-  const [isDirectReport, setIsDirectReport] = useState(false);
-
-  const searchDirectReports = () => {
-    for (let i = 0; i <= userData.direct_reports.length; i++) {
-      if (userData.direct_reports[i] === profile.id) {
-        setIsDirectReport(true);
-        return;
-      }
-    }
-    return;
-  };
 
   const getProfile = function async() {
     fetch(profile_url)
@@ -68,23 +57,14 @@ function Profile({ userData, setUserData }) {
   useEffect(() => {
     if (+id === userData.id) {
       setProfile(userData);
-      console.log("get from user");
     } else {
       getProfile();
-      console.log("get from db");
-    }
-    if (userData.direct_reports !== undefined) {
-      searchDirectReports();
     }
   }, []);
 
   if (profile.direct_reports !== undefined) {
-    // searchDirectReports();
     getReports();
   }
-
-  
-
   return (
     <Box>
       <Grid container direction="row" alignItems="left" justifyContent="left">
@@ -130,7 +110,7 @@ function Profile({ userData, setUserData }) {
         </ListItem>
         {userData.role === "hr" ||
         (userData.role === "manager" &&
-          isDirectReport) ||
+          JSON.parse(userData.direct_reports).indexOf(profile.id) !== -1) ||
         userData.id === profile.id ? (
           <ListItem>
             <ListItemIcon>
